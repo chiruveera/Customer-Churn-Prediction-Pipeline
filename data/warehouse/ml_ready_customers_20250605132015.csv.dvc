@@ -1,0 +1,5 @@
+outs:
+- md5: a2dae3e1a76576cbad64438df43114ac
+  size: 99595
+  hash: md5
+  path: ml_ready_customers_20250605132015.csv

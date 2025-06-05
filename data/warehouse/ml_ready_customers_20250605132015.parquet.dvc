@@ -1,0 +1,5 @@
+outs:
+- md5: eeb2f4275f372de8b8ebdc9a48637f36
+  size: 48541
+  hash: md5
+  path: ml_ready_customers_20250605132015.parquet
