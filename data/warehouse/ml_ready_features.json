@@ -1,0 +1,17 @@
+[
+    "age",
+    "promo_applied",
+    "tenure_months",
+    "tenure_years",
+    "charges_per_month",
+    "avg_data_usage_per_month",
+    "avg_call_per_month",
+    "avg_sms_per_month",
+    "is_payment_overdue",
+    "avg_time_on_page",
+    "total_pages_visited",
+    "engagement_score",
+    "contract_duration_months",
+    "is_male",
+    "uses_credit_card"
+]

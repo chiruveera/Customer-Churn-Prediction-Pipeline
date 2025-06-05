@@ -1,0 +1,1021 @@
+customer_id,age,gender,location,signup_date,contract_type,service_plan,monthly_charges,total_charges,payment_method,churn
+C0000,19,Male,Chicago,2023-03-26,Annual,Premium,123.09,2133.93,Credit Card,0
+C0001,66,Female,Los Angeles,2024-07-23,Annual,Standard,22.66,3585.97,Bank Transfer,1
+C0002,62,Male,Miami,2025-01-06,Monthly,Basic,95.62,4366.86,E-Wallet,1
+C0003,35,Other,New York,2025-02-17,Monthly,Premium,148.66,151.71,Mail,1
+C0004,21,Female,Houston,2024-12-03,Monthly,Basic,97.88,3562.84,E-Wallet,0
+C0005,28,Male,New York,2023-12-12,Two Year,Standard,57.51,969.37,Mail,0
+C0006,28,Other,Houston,2023-07-11,Two Year,Standard,66.05,4272.79,Mail,1
+C0007,44,Female,Chicago,2023-01-22,Monthly,Premium,125.71,3231.5,E-Wallet,1
+C0008,35,Male,Los Angeles,2023-05-27,Monthly,Basic,114.48,1166.1,Bank Transfer,1
+C0009,49,Female,Houston,2024-08-31,Monthly,Standard,74.94,4719.28,Credit Card,1
+C0010,39,Other,Los Angeles,2024-01-18,Two Year,Basic,107.86,3459.35,E-Wallet,1
+C0011,28,Male,Chicago,2023-02-24,Two Year,Basic,49.33,1872.54,Mail,1
+C0012,69,Other,Los Angeles,2022-09-17,Monthly,Basic,42.77,3249.31,Credit Card,1
+C0013,37,Female,Houston,2023-01-27,Monthly,Basic,77.06,3319.68,Bank Transfer,1
+C0014,42,Other,Houston,2024-08-16,Monthly,Basic,129.05,460.88,Credit Card,0
+C0015,29,Female,Houston,2024-01-23,Two Year,Premium,47.75,4957.13,E-Wallet,0
+C0016,53,Male,Chicago,2024-04-12,Two Year,Standard,85.9,4938.29,Credit Card,1
+C0017,63,Other,Miami,2023-12-04,Monthly,Premium,87.35,3568.4,Bank Transfer,0
+C0018,59,Female,Miami,2023-05-25,Annual,Standard,54.28,3838.24,Bank Transfer,0
+C0019,26,Male,Chicago,2022-10-13,Monthly,Standard,134.2,1383.85,Credit Card,1
+C0020,piece,Female,Chicago,2024-10-08,Monthly,Standard,55.84,2421.98,Bank Transfer,0
+C0021,50,Male,Chicago,2023-02-01,Two Year,Standard,77.12,3198.09,E-Wallet,0
+C0022,53,Male,Houston,2024-04-20,Monthly,Standard,64.09,1629.46,Bank Transfer,0
+C0023,46,Female,Chicago,2023-04-25,Annual,Standard,27.99,3257.79,E-Wallet,0
+C0024,38,Female,New York,2024-11-19,Two Year,Standard,67.5,1098.96,Mail,1
+C0025,31,Other,Houston,2022-10-26,Annual,Basic,69.53,3078.16,Credit Card,1
+C0026,36,Female,New York,2023-10-31,Two Year,Basic,49.33,2315.43,Bank Transfer,0
+C0027,55,Other,Chicago,2024-01-13,Monthly,Premium,76.35,76.96,Mail,1
+C0028,22,Male,Houston,2022-10-07,Two Year,Standard,109.83,777.84,Credit Card,1
+C0029,56,Other,New York,2024-02-09,Two Year,Standard,122.66,1876.52,Credit Card,0
+C0030,try,Other,Los Angeles,2023-06-14,Monthly,Standard,125.24,1527.06,E-Wallet,1
+C0031,65,Other,New York,2025-03-02,Two Year,Basic,141.16,383.84,E-Wallet,1
+C0032,50,Male,Los Angeles,2023-09-19,Two Year,Basic,48.91,52.32,E-Wallet,1
+C0033,24,Male,New York,2025-01-15,Monthly,Premium,53.31,2359.12,E-Wallet,0
+C0034,18,Male,New York,2023-02-14,Two Year,Basic,63.94,2389.72,E-Wallet,0
+C0035,46,Female,Chicago,2023-04-26,Two Year,Premium,32.95,1660.22,Credit Card,0
+C0036,37,Other,New York,2022-11-12,Two Year,Standard,80.1,3591.06,E-Wallet,1
+C0037,60,Female,Chicago,2025-02-16,Monthly,Premium,33.92,2124.32,Mail,0
+C0038,20,Other,Houston,2025-01-15,Monthly,Standard,100.79,283.52,Credit Card,1
+C0039,33,Other,Chicago,2024-06-18,Two Year,Basic,49.12,2642.51,Bank Transfer,0
+C0040,32,Other,Houston,2024-05-27,Monthly,Basic,103.91,3279.74,Mail,0
+C0041,45,Male,Los Angeles,2023-11-11,Monthly,Standard,131.21,2812.13,Bank Transfer,1
+C0042,20,Female,New York,2025-03-20,Monthly,Standard,32.21,4777.92,Bank Transfer,0
+C0043,foreign,Other,Chicago,2023-01-22,Monthly,Basic,124.68,764.71,Bank Transfer,1
+C0044,70,Male,Miami,2024-10-02,Monthly,Standard,78.42,1775.32,Bank Transfer,1
+C0045,18,Other,Houston,2023-05-08,Two Year,Standard,37.71,1361.23,Credit Card,1
+C0046,34,Female,Houston,2023-10-08,Two Year,Standard,143.72,609.86,Mail,0
+C0047,57,Male,New York,2025-03-17,Annual,Basic,35.62,2607.61,E-Wallet,0
+C0048,30,Female,Houston,2025-01-25,Monthly,Basic,135.89,865.45,E-Wallet,1
+C0049,70,Other,Los Angeles,2024-07-06,Two Year,Premium,51.37,3465.93,Bank Transfer,0
+C0050,28,Male,Houston,2022-11-17,Monthly,Premium,27.19,3278.01,Bank Transfer,1
+C0051,55,Male,Miami,2023-12-30,Two Year,Basic,29.88,3738.71,Credit Card,0
+C0052,53,Other,Houston,2024-03-04,Two Year,Premium,55.0,2209.58,Mail,0
+C0053,55,Female,Chicago,2025-04-01,Monthly,Standard,127.07,3973.53,Bank Transfer,1
+C0054,64,Other,Chicago,2024-06-18,Annual,Standard,124.29,2637.23,E-Wallet,1
+C0055,68,Male,Houston,2023-01-27,Two Year,Basic,101.73,1898.44,Credit Card,1
+C0056,68,Male,Miami,2022-12-18,Annual,Basic,58.38,2345.82,E-Wallet,0
+C0057,58,Female,Chicago,2024-09-05,Monthly,Basic,99.24,2714.39,Credit Card,1
+C0058,35,Male,Houston,2024-03-16,Two Year,Premium,39.07,3878.66,E-Wallet,1
+C0059,61,Female,Chicago,2022-12-10,Monthly,Premium,123.31,1822.62,E-Wallet,0
+C0060,21,Other,Chicago,2024-08-30,Two Year,Premium,105.87,1853.13,Mail,0
+C0061,18,Other,Chicago,2024-03-16,Annual,Basic,112.93,4816.35,Mail,0
+C0062,62,Female,Los Angeles,2024-03-03,Two Year,Premium,102.1,3674.34,Credit Card,1
+C0063,64,Female,Houston,2024-10-31,Annual,Standard,43.63,3216.27,Bank Transfer,1
+C0064,41,Female,Miami,2024-04-30,Two Year,Basic,109.97,1980.42,E-Wallet,1
+C0065,58,Male,Los Angeles,2024-05-20,Two Year,Premium,147.09,2410.87,E-Wallet,0
+C0066,54,Other,Chicago,2024-05-01,Two Year,Basic,111.24,1861.06,Bank Transfer,1
+C0067,33,Male,Houston,2022-12-29,Monthly,Basic,119.19,4605.47,Mail,1
+C0068,27,Male,Los Angeles,2024-07-31,Monthly,Premium,99.06,543.46,E-Wallet,1
+C0069,59,Female,Miami,2023-08-23,Monthly,Premium,80.74,2749.6,E-Wallet,0
+C0070,drug,Other,New York,2023-06-21,Annual,Basic,107.24,1816.75,Credit Card,0
+C0071,54,Other,New York,2023-11-20,Two Year,Basic,60.75,1985.57,Mail,0
+C0072,62,Female,Los Angeles,2025-03-24,Monthly,Basic,65.72,4637.96,Credit Card,1
+C0073,20,Female,Houston,2022-10-15,Annual,Standard,25.9,2061.99,Bank Transfer,1
+C0074,60,Other,New York,2024-08-08,Monthly,Basic,149.47,1377.13,E-Wallet,0
+C0075,25,Female,Houston,2023-04-12,Two Year,Basic,80.15,2998.88,Credit Card,1
+C0076,34,Female,New York,2024-01-27,Two Year,Standard,116.94,1163.64,Bank Transfer,0
+C0077,60,Other,New York,2023-05-19,Annual,Standard,82.34,998.99,Bank Transfer,0
+C0078,57,Other,Miami,2024-10-24,Two Year,Standard,62.47,4932.97,Mail,0
+C0079,60,Female,New York,2025-03-21,Two Year,Standard,66.21,911.36,Mail,0
+C0080,63,Male,Miami,2025-01-19,Monthly,Premium,112.01,2581.59,Bank Transfer,1
+C0081,55,Other,New York,2023-01-10,Annual,Standard,111.89,3499.8,E-Wallet,0
+C0082,43,Female,Chicago,2023-11-16,Monthly,Premium,23.37,2048.34,Credit Card,1
+C0083,18,Female,Los Angeles,2023-07-29,Annual,Basic,105.1,242.54,Bank Transfer,1
+C0084,41,Other,Miami,2023-09-27,Annual,Basic,136.5,478.35,Credit Card,1
+C0085,53,Other,Houston,2023-11-18,Annual,Premium,44.51,1222.19,Bank Transfer,1
+C0086,66,Female,Chicago,2023-07-29,Monthly,Premium,93.33,2226.17,E-Wallet,1
+C0087,56,Female,Los Angeles,2023-12-14,Annual,Standard,78.59,1034.63,Mail,0
+C0088,49,Other,Los Angeles,2024-02-05,Annual,Standard,22.43,3626.79,Bank Transfer,0
+C0089,32,Female,Chicago,2022-12-02,Monthly,Premium,133.67,548.29,Credit Card,1
+C0090,24,Female,Los Angeles,2024-02-12,Annual,Standard,34.34,1551.12,Bank Transfer,0
+C0091,59,Other,New York,2023-12-05,Two Year,Standard,132.21,1986.35,Mail,0
+C0092,49,Female,New York,2025-05-03,Annual,Standard,96.76,2192.65,Bank Transfer,1
+C0093,27,Female,Houston,2023-09-18,Monthly,Premium,119.57,1566.42,E-Wallet,0
+C0094,20,Female,Miami,2023-06-16,Annual,Standard,116.95,1654.23,E-Wallet,0
+C0095,50,Male,Chicago,2024-02-25,Annual,Standard,62.48,1061.99,Bank Transfer,1
+C0096,66,Female,Chicago,2023-04-12,Monthly,Standard,138.93,4553.95,Credit Card,1
+C0097,36,Other,Los Angeles,2024-06-19,Monthly,Standard,80.85,3473.09,Mail,0
+C0098,42,Female,Chicago,2025-03-16,Annual,Premium,34.1,4381.09,E-Wallet,1
+C0099,67,Other,Chicago,2025-02-09,Two Year,Standard,75.28,830.54,E-Wallet,0
+C0100,35,Male,Los Angeles,2024-12-29,Two Year,Basic,107.3,1889.46,Credit Card,1
+C0101,58,Male,Los Angeles,2022-09-24,Monthly,Basic,22.94,150.09,Credit Card,0
+C0102,27,Female,New York,2024-07-15,Monthly,Basic,76.01,859.11,Credit Card,0
+C0103,34,Male,Los Angeles,2023-04-02,Two Year,Premium,116.12,3735.95,Mail,1
+C0104,25,Other,Chicago,2023-10-14,Two Year,Basic,66.94,3320.06,E-Wallet,1
+C0105,31,Male,Miami,2024-02-01,Two Year,Basic,140.61,1334.07,Bank Transfer,1
+C0106,57,Female,Houston,2023-12-01,Two Year,Premium,102.18,292.25,Bank Transfer,1
+C0107,33,Other,Chicago,2025-04-01,Monthly,Standard,29.72,1658.86,Credit Card,0
+C0108,52,Male,Miami,2023-09-11,Monthly,Standard,46.16,3748.53,Credit Card,1
+C0109,30,Other,Chicago,2025-04-30,Annual,Basic,51.91,1692.17,Mail,0
+C0110,worry,Other,New York,2024-02-09,Annual,Premium,114.7,2222.72,Credit Card,1
+C0111,35,Female,Miami,2024-04-29,Monthly,Premium,60.22,3939.86,E-Wallet,1
+C0112,49,Other,Miami,2022-10-09,Monthly,Premium,44.42,368.47,Credit Card,1
+C0113,61,Male,Los Angeles,2023-10-05,Two Year,Standard,82.63,2010.24,Mail,1
+C0114,65,Male,New York,2023-03-11,Monthly,Premium,62.92,1712.87,Credit Card,0
+C0115,33,Female,Chicago,2024-09-18,Monthly,Premium,118.77,4446.49,Bank Transfer,0
+C0116,34,Female,New York,2024-12-31,Two Year,Basic,29.28,734.63,Bank Transfer,1
+C0117,49,Other,Houston,2023-03-25,Two Year,Standard,37.98,3312.96,E-Wallet,1
+C0118,19,Other,Chicago,2023-01-08,Annual,Basic,106.2,4589.54,Mail,0
+C0119,41,Other,Los Angeles,2024-04-05,Annual,Standard,127.59,4001.89,E-Wallet,0
+C0120,60,Male,New York,2022-12-22,Annual,Premium,25.74,3208.8,Mail,1
+C0121,29,Other,Miami,2024-01-08,Two Year,Premium,76.46,1011.93,Bank Transfer,1
+C0122,23,Female,Chicago,2024-07-13,Annual,Premium,66.96,609.56,Bank Transfer,1
+C0123,41,Other,Miami,2022-12-06,Monthly,Premium,116.73,4686.12,Credit Card,1
+C0124,37,Other,Los Angeles,2025-04-09,Annual,Premium,104.17,2747.44,Credit Card,0
+C0125,53,Male,Houston,2022-09-20,Two Year,Premium,59.64,2719.56,Credit Card,1
+C0126,27,Male,Los Angeles,2023-09-19,Two Year,Premium,30.3,3552.37,E-Wallet,1
+C0127,38,Male,Los Angeles,2025-01-06,Monthly,Basic,98.32,133.11,E-Wallet,1
+C0128,69,Female,Chicago,2024-12-05,Monthly,Premium,24.84,4495.57,Credit Card,0
+C0129,25,Other,Houston,2024-07-25,Monthly,Standard,51.25,2775.73,Mail,1
+C0130,64,Other,New York,2022-09-29,Annual,Premium,64.53,2021.77,Bank Transfer,0
+C0131,28,Male,Los Angeles,2023-04-01,Two Year,Standard,80.43,1161.36,E-Wallet,0
+C0132,19,Other,New York,2025-03-14,Annual,Premium,124.42,3521.17,Mail,1
+C0133,68,Other,Houston,2025-04-17,Annual,Premium,83.5,3814.87,E-Wallet,1
+C0134,60,Female,New York,2024-01-21,Two Year,Standard,124.53,591.22,Credit Card,0
+C0135,70,Male,Los Angeles,2023-03-14,Annual,Premium,120.78,4658.5,Credit Card,1
+C0136,32,Female,Chicago,2025-02-20,Monthly,Standard,71.25,4697.23,E-Wallet,1
+C0137,24,Female,Los Angeles,2023-06-11,Annual,Basic,79.28,2299.55,Bank Transfer,0
+C0138,30,Male,New York,2022-11-11,Two Year,Basic,147.74,2636.44,E-Wallet,1
+C0139,33,Other,Miami,2022-09-14,Annual,Standard,35.41,492.34,Bank Transfer,1
+C0140,30,Other,Chicago,2023-10-28,Two Year,Premium,86.18,1073.69,E-Wallet,1
+C0141,23,Other,Chicago,2023-10-22,Annual,Basic,60.64,2964.89,Mail,1
+C0142,38,Male,Miami,2024-06-30,Two Year,Premium,100.39,2355.14,Mail,0
+C0143,41,Other,Miami,2024-07-13,Monthly,Standard,49.66,4498.79,E-Wallet,1
+C0144,part,Male,New York,2023-04-10,Annual,Standard,64.73,1946.45,Mail,1
+C0145,56,Other,New York,2024-02-26,Annual,Basic,119.11,107.03,E-Wallet,0
+C0146,37,Male,Houston,2023-03-17,Annual,Basic,113.83,925.92,E-Wallet,0
+C0147,19,Other,Miami,2023-08-17,Annual,Basic,61.58,475.53,E-Wallet,1
+C0148,46,Female,Miami,2022-11-14,Annual,Standard,116.78,4314.38,E-Wallet,1
+C0149,60,Female,Los Angeles,2024-03-28,Monthly,Standard,44.05,2826.03,Mail,0
+C0150,40,Male,Chicago,2024-04-21,Monthly,Premium,59.19,1192.49,Credit Card,0
+C0151,68,Female,Houston,2023-06-12,Two Year,Premium,104.71,433.17,Credit Card,1
+C0152,69,Male,Houston,2023-10-08,Two Year,Standard,146.63,2751.63,E-Wallet,1
+C0153,30,Male,Los Angeles,2025-01-16,Two Year,Basic,140.95,4682.44,Mail,0
+C0154,52,Male,Houston,2023-02-21,Two Year,Premium,46.13,2891.21,Mail,1
+C0155,45,Male,New York,2023-11-17,Annual,Premium,100.18,416.61,E-Wallet,1
+C0156,ball,Male,New York,2023-01-07,Monthly,Premium,143.83,636.43,E-Wallet,0
+C0157,45,Other,Los Angeles,2023-07-18,Annual,Standard,108.87,1068.05,E-Wallet,1
+C0158,57,Male,Miami,2023-12-22,Two Year,Basic,55.5,4837.4,E-Wallet,0
+C0159,30,Other,Chicago,2024-06-27,Monthly,Basic,128.92,572.46,Credit Card,0
+C0160,62,Other,Los Angeles,2023-08-07,Annual,Standard,98.45,3434.33,Credit Card,0
+C0161,36,Female,Chicago,2023-01-29,Annual,Premium,110.39,3815.69,Bank Transfer,1
+C0162,30,Female,Los Angeles,2023-03-19,Monthly,Premium,69.32,1207.54,Mail,0
+C0163,19,Female,Miami,2024-09-24,Annual,Premium,83.88,647.14,Mail,0
+C0164,42,Female,Los Angeles,2023-06-16,Monthly,Premium,134.36,2814.25,Bank Transfer,1
+C0165,44,Female,Los Angeles,2024-02-19,Annual,Standard,118.14,4194.76,Credit Card,0
+C0166,55,Male,Chicago,2023-03-04,Monthly,Basic,119.16,4269.34,Mail,1
+C0167,62,Female,New York,2024-03-30,Two Year,Basic,128.47,2158.28,Mail,1
+C0168,67,Female,Los Angeles,2023-06-26,Monthly,Basic,68.21,126.38,E-Wallet,0
+C0169,64,Male,New York,2025-02-24,Two Year,Standard,65.29,4605.1,Mail,0
+C0170,24,Male,Chicago,2023-07-14,Two Year,Basic,66.23,3723.0,Bank Transfer,0
+C0171,64,Other,Los Angeles,2023-07-01,Two Year,Basic,26.58,4874.02,E-Wallet,0
+C0172,18,Other,Houston,2025-05-03,Two Year,Standard,114.71,634.45,Mail,0
+C0173,road,Female,Los Angeles,2024-04-28,Two Year,Basic,127.07,3645.02,Mail,0
+C0174,49,Male,Houston,2023-06-18,Annual,Standard,135.47,591.56,Bank Transfer,0
+C0175,27,Other,Los Angeles,2022-09-14,Two Year,Basic,134.88,2594.64,Mail,0
+C0176,29,Other,Chicago,2024-02-13,Annual,Standard,132.93,3490.18,Mail,1
+C0177,44,Other,New York,2025-02-18,Monthly,Standard,120.05,4021.38,E-Wallet,0
+C0178,56,Other,New York,2024-09-25,Monthly,Premium,100.68,3868.04,Credit Card,1
+C0179,29,Male,Miami,2025-02-09,Monthly,Premium,31.37,697.66,Bank Transfer,1
+C0180,69,Male,Miami,2023-05-21,Monthly,Premium,140.86,2519.2,Bank Transfer,1
+C0181,51,Male,Los Angeles,2024-09-02,Two Year,Basic,134.79,4986.46,Mail,0
+C0182,64,Female,Los Angeles,2024-08-16,Two Year,Premium,77.68,4199.67,Credit Card,1
+C0183,35,Female,Miami,2024-01-28,Monthly,Standard,143.95,4076.82,Mail,1
+C0184,39,Female,New York,2023-08-17,Annual,Basic,99.79,3259.36,E-Wallet,1
+C0185,54,Male,Los Angeles,2024-10-11,Annual,Standard,143.65,2802.39,Bank Transfer,1
+C0186,35,Male,New York,2023-11-08,Annual,Standard,105.11,4698.67,Mail,1
+C0187,26,Other,New York,2023-02-13,Annual,Standard,66.42,119.76,Mail,1
+C0188,stage,Other,Los Angeles,2022-10-13,Two Year,Standard,107.85,2828.79,Bank Transfer,1
+C0189,35,Other,Los Angeles,2024-12-28,Monthly,Standard,67.38,1876.22,E-Wallet,1
+C0190,26,Male,Miami,2023-01-07,Monthly,Basic,102.21,1727.43,E-Wallet,0
+C0191,35,Other,Chicago,2024-06-05,Two Year,Basic,123.67,3286.55,Bank Transfer,0
+C0192,44,Other,Houston,2024-09-13,Monthly,Premium,144.47,2302.93,E-Wallet,0
+C0193,18,Female,Houston,2023-05-28,Two Year,Basic,116.74,4695.64,Mail,0
+C0194,57,Other,Chicago,2022-11-05,Two Year,Basic,95.14,3227.18,Mail,1
+C0195,mouth,Other,Houston,2023-01-15,Annual,Premium,122.76,1779.39,E-Wallet,0
+C0196,61,Male,New York,2022-11-13,Monthly,Standard,68.7,3474.56,Bank Transfer,1
+C0197,56,Female,Los Angeles,2023-09-29,Monthly,Standard,72.76,4974.44,Mail,0
+C0198,68,Other,Chicago,2023-12-03,Two Year,Basic,52.18,4588.37,Bank Transfer,1
+C0199,35,Other,Los Angeles,2022-12-21,Monthly,Premium,72.49,3992.98,Credit Card,0
+C0200,40,Other,Miami,2023-03-07,Monthly,Basic,48.85,3237.31,Bank Transfer,0
+C0201,39,Male,Houston,2023-09-03,Two Year,Basic,113.76,1886.31,Mail,0
+C0202,33,Female,New York,2024-04-05,Two Year,Standard,101.01,4238.17,Mail,0
+C0203,34,Male,Chicago,2023-01-18,Monthly,Standard,37.56,4416.16,Bank Transfer,1
+C0204,63,Female,Chicago,2025-02-12,Annual,Standard,23.04,3670.22,Mail,1
+C0205,70,Other,New York,2022-10-30,Annual,Premium,59.36,2626.25,E-Wallet,0
+C0206,54,Female,Los Angeles,2022-10-11,Annual,Basic,115.14,2479.27,Mail,0
+C0207,address,Female,New York,2024-05-23,Monthly,Basic,69.92,4541.72,Credit Card,1
+C0208,21,Male,Houston,2023-03-19,Monthly,Premium,124.2,518.17,Mail,1
+C0209,54,Female,Chicago,2024-10-29,Monthly,Premium,97.8,4031.97,Mail,1
+C0210,32,Female,Chicago,2024-08-01,Annual,Premium,42.0,635.61,Credit Card,1
+C0211,61,Female,Houston,2024-03-08,Annual,Standard,134.97,1230.43,Credit Card,1
+C0212,62,Other,Los Angeles,2025-03-13,Monthly,Premium,51.59,2628.51,Bank Transfer,0
+C0213,25,Female,Los Angeles,2023-01-17,Monthly,Premium,46.52,3999.75,Bank Transfer,1
+C0214,53,Other,Houston,2023-03-08,Annual,Standard,138.0,824.16,Credit Card,1
+C0215,32,Male,New York,2022-09-10,Two Year,Premium,149.76,4184.53,Bank Transfer,1
+C0216,49,Other,Houston,2022-10-10,Annual,Basic,40.75,3474.18,Mail,0
+C0217,bed,Other,Miami,2024-12-14,Annual,Standard,94.02,1678.87,Credit Card,0
+C0218,44,Female,Chicago,2025-04-28,Two Year,Standard,26.15,882.85,E-Wallet,0
+C0219,70,Male,Chicago,2023-02-18,Two Year,Standard,113.28,4994.06,Bank Transfer,1
+C0220,27,Other,Los Angeles,2025-03-12,Monthly,Premium,131.71,4162.88,Credit Card,0
+C0221,40,Other,Miami,2025-02-08,Monthly,Standard,67.53,4629.44,Bank Transfer,0
+C0222,25,Male,New York,2023-09-11,Two Year,Standard,95.49,3011.28,Mail,0
+C0223,65,Female,Los Angeles,2023-11-18,Monthly,Standard,64.35,4731.16,E-Wallet,0
+C0224,19,Female,Miami,2024-11-22,Monthly,Premium,35.63,764.81,Credit Card,0
+C0225,45,Other,Miami,2023-04-19,Monthly,Basic,67.35,824.15,Bank Transfer,1
+C0226,66,Female,Chicago,2022-12-12,Two Year,Basic,103.31,4301.02,E-Wallet,1
+C0227,29,Female,Los Angeles,2025-04-02,Annual,Basic,40.21,3254.25,E-Wallet,0
+C0228,46,Other,New York,2025-01-21,Two Year,Premium,114.65,1323.82,Mail,1
+C0229,51,Male,Houston,2022-11-22,Monthly,Basic,29.3,4219.01,Mail,1
+C0230,42,Male,Los Angeles,2022-11-19,Two Year,Premium,49.6,3760.82,Credit Card,1
+C0231,40,Male,Miami,2024-04-11,Annual,Premium,54.88,1775.61,Credit Card,1
+C0232,modern,Female,Houston,2024-04-29,Monthly,Basic,60.95,1290.28,Bank Transfer,0
+C0233,48,Female,Chicago,2023-07-24,Annual,Premium,119.49,2488.39,Mail,0
+C0234,53,Female,Los Angeles,2024-05-20,Two Year,Standard,42.3,3597.96,Bank Transfer,1
+C0235,65,Male,Chicago,2025-01-10,Two Year,Premium,106.22,1534.06,E-Wallet,1
+C0236,53,Female,Chicago,2024-05-25,Annual,Premium,64.51,2944.47,Credit Card,1
+C0237,29,Female,Los Angeles,2024-10-13,Monthly,Standard,58.99,553.4,Credit Card,0
+C0238,25,Other,Chicago,2023-11-10,Two Year,Standard,102.09,4513.57,Mail,1
+C0239,62,Female,Los Angeles,2023-02-23,Monthly,Premium,60.13,2667.77,Credit Card,1
+C0240,54,Female,Miami,2022-12-08,Monthly,Standard,75.59,1978.88,Mail,1
+C0241,19,Male,Chicago,2023-12-22,Two Year,Premium,86.64,1403.96,Credit Card,0
+C0242,18,Female,Los Angeles,2024-06-22,Monthly,Premium,73.16,810.11,Bank Transfer,1
+C0243,61,Female,Miami,2023-07-20,Two Year,Basic,54.63,3036.05,Credit Card,1
+C0244,55,Female,Los Angeles,2024-07-01,Two Year,Basic,42.98,3014.23,E-Wallet,0
+C0245,70,Female,Houston,2023-09-14,Annual,Premium,97.05,866.9,Mail,1
+C0246,33,Other,Chicago,2023-07-01,Two Year,Basic,30.01,1390.87,Bank Transfer,1
+C0247,18,Other,Houston,2024-01-27,Annual,Standard,87.48,3226.78,Bank Transfer,1
+C0248,52,Male,New York,2023-07-24,Monthly,Premium,88.42,1740.55,Credit Card,0
+C0249,30,Female,New York,2024-01-11,Two Year,Standard,39.53,1814.79,E-Wallet,0
+C0250,21,Other,Houston,2025-03-31,Annual,Basic,56.04,3436.99,Mail,1
+C0251,41,Male,New York,2023-09-23,Annual,Premium,112.6,4033.83,Bank Transfer,0
+C0252,70,Other,Los Angeles,2024-07-25,Annual,Basic,27.14,385.98,Bank Transfer,0
+C0253,44,Male,New York,2023-04-22,Two Year,Basic,93.25,3066.96,Credit Card,0
+C0254,43,Male,Miami,2024-02-09,Monthly,Basic,149.46,4354.98,Credit Card,1
+C0255,58,Female,Miami,2025-04-10,Annual,Standard,63.95,4386.87,Mail,0
+C0256,42,Female,Chicago,2024-11-10,Annual,Premium,147.07,1068.69,Bank Transfer,1
+C0257,44,Other,Chicago,2025-04-25,Two Year,Premium,71.23,1395.07,Mail,0
+C0258,26,Female,Houston,2025-01-09,Monthly,Standard,86.6,4385.19,Credit Card,1
+C0259,70,Other,Los Angeles,2023-05-01,Annual,Basic,92.15,3790.16,E-Wallet,0
+C0260,55,Male,New York,2024-01-24,Annual,Standard,58.77,340.26,E-Wallet,0
+C0261,66,Female,Chicago,2022-10-02,Monthly,Standard,110.84,988.31,Mail,0
+C0262,39,Female,Chicago,2023-01-12,Monthly,Standard,129.94,3372.76,E-Wallet,1
+C0263,39,Female,Miami,2024-04-17,Monthly,Premium,21.0,4295.95,Credit Card,1
+C0264,39,Male,Miami,2025-03-31,Two Year,Basic,88.47,2862.86,Bank Transfer,1
+C0265,34,Male,Miami,2023-12-22,Two Year,Standard,25.31,2392.87,E-Wallet,1
+C0266,59,Other,Chicago,2022-11-18,Annual,Standard,148.69,1633.87,E-Wallet,1
+C0267,51,Male,Houston,2023-11-16,Two Year,Standard,72.43,3930.91,Credit Card,1
+C0268,28,Male,Los Angeles,2023-07-31,Monthly,Premium,62.37,3181.96,E-Wallet,1
+C0269,31,Male,Miami,2022-10-11,Monthly,Standard,37.08,433.84,Credit Card,0
+C0270,67,Female,Miami,2024-04-05,Annual,Premium,113.29,4247.59,Credit Card,1
+C0271,41,Female,Miami,2023-05-10,Annual,Premium,84.44,1879.97,Bank Transfer,0
+C0272,27,Other,Houston,2023-12-04,Annual,Premium,129.42,508.96,Mail,1
+C0273,69,Other,Los Angeles,2024-05-26,Two Year,Basic,55.84,2930.3,Mail,1
+C0274,65,Male,Miami,2022-11-10,Monthly,Basic,114.68,937.78,Mail,0
+C0275,57,Male,New York,2025-04-17,Annual,Premium,127.09,1118.9,E-Wallet,0
+C0276,66,Other,Chicago,2024-06-20,Annual,Basic,78.45,1194.07,E-Wallet,0
+C0277,29,Other,Los Angeles,2023-08-08,Monthly,Premium,107.53,208.16,Mail,0
+C0278,23,Male,Chicago,2024-11-04,Annual,Standard,67.86,4795.02,Credit Card,0
+C0279,23,Female,Los Angeles,2023-08-15,Monthly,Basic,88.66,2339.03,E-Wallet,1
+C0280,30,Male,Los Angeles,2023-09-18,Monthly,Basic,102.62,231.57,Mail,1
+C0281,31,Other,Houston,2022-10-24,Two Year,Standard,30.41,3520.41,Credit Card,0
+C0282,25,Other,Houston,2023-10-05,Monthly,Basic,69.86,1057.52,Credit Card,1
+C0283,22,Male,New York,2024-09-03,Two Year,Premium,22.93,746.58,Credit Card,0
+C0284,36,Other,Chicago,2024-06-08,Monthly,Basic,99.89,4440.68,Mail,1
+C0285,33,Other,Houston,2023-04-01,Two Year,Standard,53.12,3300.23,E-Wallet,1
+C0286,19,Female,Los Angeles,2022-12-23,Monthly,Premium,47.39,4288.91,Bank Transfer,1
+C0287,23,Male,Los Angeles,2024-05-03,Two Year,Basic,80.15,4275.37,Mail,1
+C0288,realize,Female,Miami,2024-03-23,Two Year,Basic,91.71,4527.91,Credit Card,0
+C0289,41,Other,New York,2025-03-13,Annual,Premium,140.25,1332.7,Mail,1
+C0290,work,Female,Chicago,2023-02-03,Annual,Standard,100.68,1285.61,Bank Transfer,0
+C0291,36,Other,Houston,2024-10-26,Annual,Standard,144.44,1191.1,Bank Transfer,0
+C0292,67,Male,Miami,2024-09-30,Two Year,Standard,89.04,3145.08,Mail,0
+C0293,18,Male,Houston,2025-02-28,Monthly,Basic,80.86,1684.52,Mail,0
+C0294,48,Male,New York,2023-03-20,Annual,Premium,42.24,3634.07,E-Wallet,0
+C0295,61,Other,Houston,2023-08-20,Monthly,Standard,145.2,2008.25,Mail,0
+C0296,60,Female,Miami,2023-02-02,Annual,Standard,79.05,1861.26,Mail,0
+C0297,49,Male,Miami,2023-10-18,Two Year,Premium,138.35,2835.6,Bank Transfer,1
+C0298,40,Other,Miami,2023-12-15,Monthly,Standard,139.85,1988.37,Credit Card,0
+C0299,23,Male,Miami,2023-02-19,Annual,Basic,57.72,4455.61,E-Wallet,1
+C0300,57,Other,Los Angeles,2023-04-25,Annual,Standard,60.19,2810.5,E-Wallet,0
+C0301,30,Female,Los Angeles,2023-10-11,Monthly,Premium,78.49,2781.45,Mail,1
+C0302,long,Female,Chicago,2024-12-09,Monthly,Premium,34.11,1801.57,Bank Transfer,1
+C0303,33,Female,Houston,2024-12-15,Two Year,Premium,123.36,3027.47,Mail,0
+C0304,34,Other,New York,2024-08-17,Annual,Premium,77.38,3987.6,Mail,1
+C0305,land,Male,Miami,2025-01-16,Two Year,Premium,149.01,3302.61,Mail,0
+C0306,68,Female,Los Angeles,2025-01-05,Two Year,Premium,32.46,164.07,E-Wallet,1
+C0307,34,Other,Houston,2025-04-02,Annual,Basic,86.32,634.37,Credit Card,0
+C0308,62,Other,Los Angeles,2024-12-25,Two Year,Standard,36.86,2717.6,E-Wallet,1
+C0309,20,Male,Los Angeles,2024-09-29,Annual,Standard,120.65,1285.23,Credit Card,1
+C0310,18,Male,Chicago,2022-10-27,Two Year,Standard,55.65,2393.1,Mail,0
+C0311,50,Male,Los Angeles,2023-08-19,Annual,Premium,48.89,2456.15,E-Wallet,0
+C0312,29,Male,Los Angeles,2024-05-11,Monthly,Premium,78.85,4801.14,Bank Transfer,1
+C0313,57,Male,New York,2023-07-30,Two Year,Premium,69.21,4165.09,Bank Transfer,0
+C0314,51,Female,Chicago,2025-04-23,Monthly,Standard,49.71,310.77,Mail,1
+C0315,45,Other,Miami,2023-05-20,Two Year,Basic,67.65,4636.91,Mail,0
+C0316,25,Other,Chicago,2024-01-18,Monthly,Standard,116.91,2674.21,Mail,1
+C0317,61,Other,Houston,2023-10-26,Annual,Basic,67.61,3535.11,E-Wallet,0
+C0318,54,Other,New York,2022-09-07,Annual,Standard,41.6,1999.45,Mail,0
+C0319,25,Male,Miami,2023-11-12,Two Year,Basic,25.39,3838.22,E-Wallet,1
+C0320,33,Female,Chicago,2024-07-21,Annual,Premium,101.7,826.4,Mail,1
+C0321,27,Male,Houston,2023-06-07,Monthly,Premium,147.75,4414.56,Bank Transfer,1
+C0322,58,Other,Houston,2023-04-05,Annual,Standard,43.77,445.31,Mail,0
+C0323,51,Other,New York,2023-12-22,Annual,Premium,110.15,4509.85,Credit Card,1
+C0324,66,Male,Chicago,2023-05-31,Annual,Premium,124.82,1039.53,Mail,0
+C0325,20,Other,Houston,2024-12-17,Two Year,Basic,118.22,3328.8,Mail,0
+C0326,19,Other,Los Angeles,2024-12-27,Annual,Basic,145.01,3056.56,Mail,0
+C0327,36,Female,Miami,2024-12-13,Two Year,Premium,34.76,2780.52,Credit Card,1
+C0328,24,Male,New York,2025-02-23,Two Year,Premium,66.45,3603.3,Bank Transfer,0
+C0329,58,Female,Chicago,2023-02-04,Monthly,Basic,126.5,3388.45,Credit Card,1
+C0330,64,Female,Chicago,2024-12-03,Annual,Premium,31.3,1000.39,Credit Card,0
+C0331,58,Other,Chicago,2024-12-05,Two Year,Standard,42.31,322.22,Bank Transfer,0
+C0332,65,Male,New York,2024-01-23,Two Year,Standard,106.83,2902.24,Bank Transfer,1
+C0333,47,Male,Houston,2023-09-03,Annual,Standard,137.16,1420.02,Credit Card,0
+C0334,20,Other,Houston,2023-12-20,Monthly,Standard,108.42,4729.18,E-Wallet,1
+C0335,34,Female,Houston,2023-06-21,Annual,Basic,118.94,4174.84,Bank Transfer,0
+C0336,27,Male,Chicago,2023-04-24,Annual,Basic,20.61,102.85,Credit Card,1
+C0337,41,Female,Houston,2025-03-16,Annual,Premium,134.98,2940.87,Mail,0
+C0338,69,Male,Chicago,2025-01-07,Two Year,Basic,112.28,506.1,E-Wallet,0
+C0339,47,Male,Miami,2023-11-25,Two Year,Basic,31.19,1525.07,Credit Card,0
+C0340,23,Male,Miami,2024-01-21,Annual,Standard,104.99,4604.95,Mail,0
+C0341,22,Other,Chicago,2023-06-10,Monthly,Basic,125.87,277.02,Bank Transfer,1
+C0342,62,Female,New York,2023-11-07,Two Year,Basic,88.44,3098.03,E-Wallet,0
+C0343,41,Female,New York,2023-12-24,Monthly,Basic,109.46,594.6,Credit Card,1
+C0344,48,Other,Houston,2025-04-03,Annual,Basic,79.03,3994.49,Bank Transfer,1
+C0345,19,Other,Miami,2024-08-20,Two Year,Premium,85.54,4764.98,E-Wallet,1
+C0346,53,Male,Miami,2024-12-29,Monthly,Standard,68.88,3711.95,Mail,1
+C0347,43,Male,New York,2024-01-22,Monthly,Standard,123.08,4182.37,Mail,1
+C0348,26,Female,Los Angeles,2023-07-22,Annual,Standard,96.81,3305.5,E-Wallet,0
+C0349,40,Female,Houston,2023-05-25,Monthly,Premium,23.57,1623.0,Credit Card,0
+C0350,49,Female,Miami,2023-07-30,Two Year,Standard,94.58,4401.3,Mail,1
+C0351,34,Female,Los Angeles,2024-08-13,Two Year,Premium,105.6,2742.78,E-Wallet,0
+C0352,48,Other,Miami,2023-02-02,Two Year,Basic,33.01,1450.67,E-Wallet,1
+C0353,51,Male,Houston,2024-06-29,Annual,Basic,119.32,4444.78,Bank Transfer,0
+C0354,26,Other,New York,2022-12-01,Annual,Standard,141.5,329.05,Mail,1
+C0355,29,Male,Miami,2024-05-14,Two Year,Basic,92.09,820.12,Credit Card,0
+C0356,63,Other,Los Angeles,2023-07-28,Annual,Standard,124.88,4657.82,E-Wallet,0
+C0357,61,Other,New York,2024-05-24,Annual,Standard,79.84,3472.49,Bank Transfer,1
+C0358,25,Female,Miami,2024-02-19,Monthly,Basic,45.23,4482.51,Mail,0
+C0359,42,Male,Miami,2024-04-05,Annual,Standard,87.0,2006.77,Bank Transfer,1
+C0360,card,Female,New York,2023-02-05,Annual,Premium,93.49,3218.66,Mail,0
+C0361,67,Female,Chicago,2022-10-10,Annual,Premium,97.37,237.33,Credit Card,1
+C0362,54,Other,Chicago,2023-08-03,Monthly,Premium,48.67,3755.01,Mail,0
+C0363,29,Other,New York,2024-02-17,Two Year,Basic,39.05,237.86,Mail,1
+C0364,24,Female,Chicago,2025-03-26,Two Year,Basic,113.57,3683.39,Mail,0
+C0365,32,Male,Miami,2023-10-01,Two Year,Standard,114.53,4932.26,Bank Transfer,1
+C0366,34,Female,Miami,2024-11-04,Two Year,Premium,118.73,4449.23,E-Wallet,1
+C0367,56,Male,Miami,2023-06-12,Monthly,Basic,144.67,3198.8,Bank Transfer,1
+C0368,69,Female,New York,2023-01-21,Monthly,Basic,38.51,991.54,Credit Card,0
+C0369,19,Other,Chicago,2024-12-26,Two Year,Standard,129.76,2256.56,Credit Card,1
+C0370,52,Male,Los Angeles,2023-01-23,Annual,Premium,104.41,3039.71,Mail,1
+C0371,58,Female,Houston,2022-11-27,Monthly,Standard,24.07,2017.3,Bank Transfer,1
+C0372,41,Other,Houston,2023-01-17,Monthly,Standard,74.06,2585.88,Mail,1
+C0373,62,Male,Chicago,2023-03-11,Monthly,Basic,38.39,186.18,Bank Transfer,0
+C0374,50,Female,Los Angeles,2022-10-18,Monthly,Premium,138.33,1617.71,Credit Card,1
+C0375,54,Female,Miami,2023-12-28,Annual,Basic,145.2,3675.85,Credit Card,1
+C0376,57,Female,Los Angeles,2024-01-01,Two Year,Standard,47.83,752.63,Mail,1
+C0377,37,Male,New York,2024-10-30,Annual,Standard,27.02,2586.52,Credit Card,0
+C0378,48,Male,Los Angeles,2023-09-25,Monthly,Premium,52.21,719.11,Bank Transfer,0
+C0379,60,Other,Miami,2022-12-13,Annual,Standard,92.83,4746.53,E-Wallet,0
+C0380,52,Male,Houston,2023-07-05,Two Year,Standard,45.3,1419.98,Bank Transfer,0
+C0381,18,Female,Houston,2022-12-09,Annual,Premium,107.99,985.18,E-Wallet,1
+C0382,36,Male,Miami,2024-02-21,Monthly,Basic,130.7,1519.21,Mail,0
+C0383,25,Other,Chicago,2023-06-06,Monthly,Standard,128.52,1774.38,E-Wallet,0
+C0384,53,Other,Chicago,2023-05-23,Two Year,Standard,105.54,2861.47,E-Wallet,1
+C0385,42,Male,Miami,2024-02-26,Two Year,Standard,110.06,4397.35,Credit Card,1
+C0386,18,Other,Houston,2025-04-28,Monthly,Basic,97.08,4740.38,Bank Transfer,0
+C0387,19,Male,Chicago,2023-03-17,Monthly,Standard,126.5,2146.93,Credit Card,1
+C0388,60,Female,Los Angeles,2022-12-17,Annual,Premium,71.36,935.49,Mail,0
+C0389,68,Other,Chicago,2023-09-25,Two Year,Basic,139.38,3759.26,Credit Card,1
+C0390,41,Other,Chicago,2022-11-14,Monthly,Basic,91.18,1453.35,Mail,0
+C0391,29,Other,New York,2023-05-07,Monthly,Standard,133.75,2373.3,Mail,1
+C0392,30,Male,Los Angeles,2024-11-19,Monthly,Basic,23.64,1947.85,Bank Transfer,0
+C0393,45,Female,Houston,2022-10-28,Annual,Standard,145.76,2721.17,Bank Transfer,0
+C0394,68,Male,Houston,2024-10-18,Two Year,Premium,108.48,2378.35,Credit Card,1
+C0395,35,Other,Los Angeles,2025-01-04,Annual,Basic,132.74,283.66,Mail,0
+C0396,40,Other,Chicago,2022-10-08,Annual,Standard,119.17,2811.76,Mail,1
+C0397,46,Female,Chicago,2024-03-25,Monthly,Premium,79.07,2231.12,Bank Transfer,0
+C0398,25,Female,Miami,2023-11-07,Annual,Premium,62.72,2160.49,Credit Card,0
+C0399,56,Male,New York,2024-03-11,Two Year,Premium,22.69,4907.41,Mail,1
+C0400,describe,Other,Los Angeles,2023-11-25,Annual,Standard,89.91,1309.92,E-Wallet,1
+C0401,59,Male,Miami,2024-10-14,Monthly,Standard,29.02,167.24,Mail,1
+C0402,40,Female,Chicago,2024-01-31,Monthly,Premium,29.96,4474.91,E-Wallet,1
+C0403,32,Female,Houston,2025-01-27,Annual,Standard,68.28,891.71,Mail,1
+C0404,41,Female,Miami,2023-06-16,Two Year,Basic,143.56,2098.58,Mail,0
+C0405,38,Other,Chicago,2023-03-24,Two Year,Premium,108.05,504.78,Credit Card,1
+C0406,70,Other,Miami,2024-07-23,Annual,Premium,133.11,3819.65,Mail,1
+C0407,68,Other,Houston,2023-02-02,Two Year,Premium,32.07,3750.5,Mail,0
+C0408,59,Female,Los Angeles,2025-04-22,Two Year,Basic,27.2,447.53,Bank Transfer,1
+C0409,36,Female,New York,2023-04-03,Two Year,Basic,102.39,4537.05,Bank Transfer,1
+C0410,35,Other,Los Angeles,2024-02-15,Annual,Basic,86.99,870.27,E-Wallet,0
+C0411,34,Other,Houston,2023-06-22,Monthly,Standard,73.42,4878.27,E-Wallet,1
+C0412,52,Female,Los Angeles,2024-06-07,Monthly,Basic,95.59,1959.86,Bank Transfer,1
+C0413,55,Other,New York,2024-02-28,Annual,Premium,139.27,3942.6,Bank Transfer,1
+C0414,57,Other,Chicago,2023-03-18,Annual,Standard,95.08,1188.85,E-Wallet,0
+C0415,33,Other,New York,2023-04-09,Two Year,Basic,64.78,2008.09,Bank Transfer,1
+C0416,30,Female,Chicago,2024-03-29,Monthly,Standard,24.88,1103.73,Credit Card,1
+C0417,69,Female,Houston,2023-07-26,Annual,Basic,109.77,1773.9,Mail,1
+C0418,51,Female,Miami,2023-06-19,Two Year,Basic,73.69,4683.39,Bank Transfer,1
+C0419,70,Male,Los Angeles,2023-05-30,Annual,Standard,131.41,2694.13,Mail,1
+C0420,44,Other,Chicago,2023-06-30,Monthly,Standard,38.72,2291.13,Credit Card,1
+C0421,66,Male,Los Angeles,2023-04-17,Monthly,Standard,85.93,3563.05,Credit Card,1
+C0422,68,Other,Houston,2025-04-17,Two Year,Standard,142.67,803.05,Credit Card,1
+C0423,61,Other,New York,2024-07-17,Monthly,Basic,74.09,4285.53,Mail,0
+C0424,18,Other,Houston,2023-06-25,Annual,Basic,112.17,384.57,E-Wallet,0
+C0425,64,Male,Chicago,2024-10-25,Monthly,Standard,107.8,3047.76,E-Wallet,1
+C0426,18,Male,Los Angeles,2024-10-13,Annual,Basic,37.77,1433.36,E-Wallet,0
+C0427,55,Male,Miami,2024-06-23,Two Year,Basic,106.13,2553.26,Credit Card,0
+C0428,26,Male,New York,2024-03-17,Annual,Basic,115.82,1382.84,Credit Card,0
+C0429,society,Male,Houston,2024-10-24,Two Year,Standard,81.12,1392.32,Mail,0
+C0430,49,Male,New York,2023-11-02,Monthly,Basic,67.32,2310.05,Mail,0
+C0431,53,Other,Houston,2023-09-25,Annual,Basic,105.57,4741.13,Mail,0
+C0432,44,Male,New York,2023-08-14,Annual,Basic,140.73,2995.1,Credit Card,1
+C0433,40,Male,New York,2025-05-01,Two Year,Standard,107.73,366.47,Credit Card,0
+C0434,63,Other,Houston,2023-07-10,Annual,Basic,106.94,3127.24,Mail,0
+C0435,41,Other,Chicago,2025-04-10,Annual,Premium,144.75,1293.06,Mail,0
+C0436,67,Other,Chicago,2023-09-13,Monthly,Basic,82.75,2180.07,Bank Transfer,1
+C0437,18,Other,Houston,2023-08-16,Two Year,Premium,51.35,1384.07,Credit Card,1
+C0438,47,Female,New York,2023-05-17,Annual,Basic,97.94,4723.54,Credit Card,1
+C0439,41,Female,Houston,2023-09-11,Monthly,Basic,51.66,1798.87,Mail,0
+C0440,55,Male,Los Angeles,2025-03-08,Monthly,Basic,121.93,741.37,Credit Card,0
+C0441,51,Female,Houston,2024-10-10,Two Year,Basic,98.61,4890.62,Bank Transfer,0
+C0442,32,Male,New York,2024-12-04,Annual,Standard,97.24,2020.31,Mail,1
+C0443,26,Female,New York,2024-05-02,Monthly,Basic,32.97,2169.14,Mail,0
+C0444,21,Male,New York,2022-11-10,Two Year,Basic,58.0,3797.72,Bank Transfer,0
+C0445,loss,Other,Chicago,2022-09-19,Two Year,Premium,31.9,205.08,Mail,1
+C0446,18,Male,Chicago,2023-10-03,Annual,Premium,41.66,1884.64,E-Wallet,0
+C0447,35,Other,Chicago,2025-03-11,Monthly,Premium,74.06,2447.45,E-Wallet,1
+C0448,what,Other,Chicago,2024-08-11,Monthly,Standard,85.89,132.11,Credit Card,0
+C0449,63,Female,Los Angeles,2023-12-20,Annual,Premium,141.24,3049.2,Credit Card,0
+C0450,62,Female,New York,2024-05-16,Monthly,Standard,52.05,129.34,Credit Card,1
+C0451,34,Female,Los Angeles,2024-12-03,Annual,Standard,103.97,1264.89,Mail,0
+C0452,24,Other,Los Angeles,2023-01-21,Monthly,Standard,120.79,2737.96,Mail,1
+C0453,63,Female,Houston,2022-11-21,Monthly,Basic,72.08,1212.64,Bank Transfer,1
+C0454,36,Male,Chicago,2022-09-11,Annual,Premium,122.41,4247.44,Bank Transfer,1
+C0455,61,Other,Miami,2025-03-09,Two Year,Premium,136.44,2575.89,Mail,1
+C0456,22,Male,New York,2024-04-08,Monthly,Basic,143.88,3512.82,Mail,0
+C0457,69,Other,Chicago,2024-08-08,Two Year,Standard,123.75,1880.76,Credit Card,1
+C0458,20,Other,Miami,2024-10-13,Monthly,Standard,43.32,1748.41,Mail,0
+C0459,68,Other,Los Angeles,2024-04-29,Monthly,Basic,115.59,4388.62,Bank Transfer,0
+C0460,29,Male,Miami,2024-09-24,Annual,Premium,109.1,1815.99,E-Wallet,0
+C0461,70,Female,Chicago,2023-06-25,Monthly,Standard,83.95,2567.8,Credit Card,1
+C0462,realize,Female,Chicago,2024-10-17,Monthly,Basic,49.56,4477.15,E-Wallet,1
+C0463,70,Other,New York,2023-02-06,Annual,Premium,100.51,2101.11,Bank Transfer,1
+C0464,50,Other,Miami,2024-04-02,Two Year,Basic,109.09,4263.7,Credit Card,1
+C0465,44,Male,New York,2024-10-13,Two Year,Standard,121.14,3431.32,Mail,0
+C0466,35,Other,Miami,2024-01-29,Monthly,Premium,106.04,2387.29,Mail,0
+C0467,52,Female,Los Angeles,2023-01-14,Monthly,Premium,142.56,1158.28,Mail,1
+C0468,35,Other,Chicago,2023-11-24,Annual,Premium,131.29,1964.69,Bank Transfer,0
+C0469,28,Female,Houston,2024-12-08,Two Year,Premium,141.48,2325.55,E-Wallet,1
+C0470,shake,Male,Los Angeles,2023-02-26,Annual,Premium,29.13,2291.01,Bank Transfer,0
+C0471,39,Other,New York,2023-04-29,Two Year,Basic,146.3,4122.62,Credit Card,0
+C0472,47,Other,New York,2024-11-01,Monthly,Standard,34.87,674.32,Credit Card,0
+C0473,24,Male,New York,2024-07-18,Two Year,Basic,80.96,2396.1,E-Wallet,0
+C0474,44,Other,Los Angeles,2024-02-27,Monthly,Standard,23.53,3257.39,Credit Card,0
+C0475,45,Female,Los Angeles,2024-03-24,Monthly,Basic,115.85,775.72,E-Wallet,0
+C0476,28,Female,Los Angeles,2022-11-23,Annual,Premium,80.34,2338.75,E-Wallet,0
+C0477,49,Male,Miami,2024-01-24,Annual,Basic,88.25,3510.2,Bank Transfer,0
+C0478,27,Female,Houston,2024-10-24,Two Year,Basic,63.62,4766.67,Mail,0
+C0479,32,Female,Los Angeles,2024-08-09,Two Year,Basic,27.29,1119.3,Bank Transfer,0
+C0480,25,Other,Chicago,2023-10-14,Monthly,Basic,82.61,3369.37,Credit Card,1
+C0481,47,Male,Miami,2023-05-05,Monthly,Standard,110.59,277.71,E-Wallet,0
+C0482,56,Other,Houston,2024-12-21,Annual,Premium,37.88,864.07,Credit Card,0
+C0483,56,Male,New York,2023-01-12,Annual,Premium,146.4,3285.21,Bank Transfer,0
+C0484,36,Female,New York,2022-10-20,Annual,Premium,47.43,4356.32,Credit Card,0
+C0485,67,Female,Houston,2024-11-09,Two Year,Basic,57.71,2858.34,Credit Card,1
+C0486,43,Male,Houston,2024-02-04,Two Year,Basic,40.99,1071.31,Credit Card,0
+C0487,67,Female,Miami,2024-04-15,Monthly,Standard,115.9,4615.06,Bank Transfer,1
+C0488,43,Female,New York,2023-06-04,Annual,Standard,85.7,1071.63,E-Wallet,1
+C0489,60,Female,Chicago,2024-04-19,Annual,Basic,32.31,3094.52,Credit Card,1
+C0490,55,Male,Los Angeles,2024-10-14,Annual,Premium,141.03,2989.03,Mail,0
+C0491,44,Other,Houston,2023-03-06,Two Year,Basic,22.43,4918.23,Mail,1
+C0492,39,Female,Los Angeles,2024-04-13,Monthly,Basic,105.46,4398.38,Credit Card,0
+C0493,60,Female,Chicago,2024-10-20,Monthly,Premium,22.7,892.65,Bank Transfer,1
+C0494,57,Male,Los Angeles,2024-07-12,Two Year,Premium,43.03,1140.22,Mail,1
+C0495,21,Female,Chicago,2022-10-24,Annual,Standard,134.17,4407.78,Bank Transfer,1
+C0496,32,Male,New York,2024-12-15,Two Year,Standard,26.8,1215.13,Bank Transfer,0
+C0497,59,Female,Houston,2022-11-19,Monthly,Standard,87.66,1394.92,Credit Card,1
+C0498,someone,Male,Houston,2024-06-09,Monthly,Premium,42.12,2226.84,Credit Card,1
+C0499,smile,Male,Miami,2023-08-12,Annual,Basic,129.26,1037.76,Bank Transfer,0
+C0500,58,Other,Los Angeles,2023-12-31,Monthly,Standard,27.82,584.8,Mail,0
+C0501,44,Female,Houston,2024-03-02,Annual,Basic,135.53,1214.4,Bank Transfer,1
+C0502,27,Male,New York,2025-02-13,Annual,Standard,29.74,2911.77,Credit Card,1
+C0503,54,Other,Miami,2024-04-18,Two Year,Premium,29.02,1663.6,E-Wallet,1
+C0504,39,Male,Los Angeles,2025-03-09,Annual,Premium,29.12,4768.13,Credit Card,1
+C0505,18,Female,Houston,2024-03-02,Monthly,Standard,34.85,2700.26,E-Wallet,1
+C0506,29,Female,Los Angeles,2023-08-27,Annual,Standard,100.88,3095.03,Credit Card,0
+C0507,23,Female,Chicago,2025-01-07,Annual,Premium,39.74,4453.47,Mail,0
+C0508,35,Other,New York,2024-05-21,Annual,Standard,59.27,621.69,E-Wallet,1
+C0509,36,Male,Chicago,2023-10-09,Monthly,Basic,147.71,4831.89,Credit Card,1
+C0510,18,Other,Houston,2023-03-17,Two Year,Basic,28.84,3735.6,Bank Transfer,0
+C0511,nor,Other,Miami,2024-08-29,Two Year,Standard,133.48,2129.54,E-Wallet,0
+C0512,56,Female,Los Angeles,2023-05-13,Monthly,Basic,126.93,3042.83,Credit Card,0
+C0513,30,Other,Chicago,2023-11-04,Annual,Premium,66.87,2423.64,E-Wallet,0
+C0514,26,Other,Houston,2023-11-13,Two Year,Premium,127.91,1204.52,Mail,0
+C0515,18,Other,Miami,2024-11-01,Annual,Standard,53.97,2754.33,Credit Card,1
+C0516,25,Other,New York,2024-01-31,Annual,Basic,108.2,4297.43,E-Wallet,1
+C0517,58,Other,Chicago,2024-02-17,Two Year,Standard,123.15,3464.64,E-Wallet,0
+C0518,65,Male,Chicago,2023-11-20,Monthly,Basic,81.61,2188.73,Bank Transfer,0
+C0519,48,Female,Los Angeles,2024-09-09,Monthly,Standard,70.77,3771.55,Mail,1
+C0520,20,Other,Miami,2024-10-14,Monthly,Premium,101.43,1716.67,Bank Transfer,0
+C0521,64,Other,Chicago,2022-09-14,Two Year,Standard,49.06,4947.59,Bank Transfer,1
+C0522,22,Male,Houston,2024-04-14,Monthly,Premium,38.65,2737.81,Bank Transfer,1
+C0523,20,Female,New York,2024-06-12,Annual,Standard,141.26,409.11,E-Wallet,1
+C0524,48,Male,Houston,2025-01-08,Annual,Premium,145.55,4555.23,E-Wallet,1
+C0525,former,Other,Chicago,2024-02-05,Two Year,Basic,73.15,1692.02,E-Wallet,0
+C0526,40,Other,Houston,2024-03-06,Two Year,Standard,133.79,168.46,E-Wallet,0
+C0527,66,Other,Chicago,2023-03-07,Monthly,Basic,95.65,2286.22,E-Wallet,0
+C0528,24,Other,Chicago,2023-03-17,Two Year,Premium,127.08,1415.14,Mail,1
+C0529,29,Other,New York,2024-03-01,Annual,Premium,114.84,1398.65,E-Wallet,0
+C0530,38,Other,Houston,2023-01-27,Annual,Standard,126.99,2022.92,Bank Transfer,1
+C0531,18,Female,Chicago,2023-11-02,Monthly,Standard,23.25,4017.18,Credit Card,1
+C0532,40,Female,Miami,2025-01-07,Annual,Premium,106.15,461.69,Bank Transfer,0
+C0533,27,Male,Chicago,2025-03-12,Annual,Premium,131.57,3634.87,E-Wallet,1
+C0534,66,Other,Houston,2024-11-12,Monthly,Standard,57.3,1080.68,Mail,0
+C0535,63,Female,Chicago,2023-03-04,Monthly,Basic,73.63,1875.5,Mail,0
+C0536,45,Male,Los Angeles,2024-06-02,Two Year,Basic,143.91,4092.95,Mail,0
+C0537,administration,Female,Miami,2023-01-26,Annual,Standard,61.12,1342.06,Bank Transfer,1
+C0538,50,Other,Los Angeles,2024-06-01,Annual,Standard,135.19,2814.02,Mail,1
+C0539,54,Other,Chicago,2022-10-14,Two Year,Basic,129.31,3195.27,Credit Card,0
+C0540,whom,Other,Los Angeles,2024-12-02,Monthly,Standard,42.48,2586.0,E-Wallet,0
+C0541,29,Male,Chicago,2025-01-14,Annual,Basic,40.94,3511.53,E-Wallet,0
+C0542,46,Male,New York,2024-10-02,Annual,Basic,135.04,1101.5,Mail,0
+C0543,56,Other,New York,2023-09-18,Annual,Premium,131.21,2626.09,Bank Transfer,1
+C0544,40,Male,Miami,2022-10-25,Monthly,Standard,115.76,4877.07,Mail,1
+C0545,28,Other,Houston,2025-02-13,Two Year,Premium,59.76,1264.97,Credit Card,0
+C0546,62,Female,Los Angeles,2023-06-09,Two Year,Premium,72.72,1500.39,Mail,0
+C0547,30,Female,Los Angeles,2023-01-17,Annual,Premium,107.55,1385.49,Mail,1
+C0548,55,Other,Houston,2024-06-01,Annual,Premium,35.84,1839.56,Bank Transfer,1
+C0549,55,Female,Los Angeles,2023-12-07,Two Year,Standard,37.29,1345.57,Bank Transfer,0
+C0550,66,Male,Houston,2022-11-02,Annual,Basic,88.65,2679.7,Mail,0
+C0551,34,Female,New York,2023-06-30,Monthly,Basic,82.21,217.01,Bank Transfer,0
+C0552,68,Male,Los Angeles,2024-04-05,Monthly,Standard,82.96,2330.14,Bank Transfer,0
+C0553,29,Female,Los Angeles,2023-05-21,Monthly,Standard,133.83,1900.08,Bank Transfer,0
+C0554,67,Female,Houston,2024-11-18,Two Year,Premium,42.24,3674.85,Mail,0
+C0555,21,Female,Los Angeles,2022-10-27,Annual,Basic,63.33,663.14,E-Wallet,1
+C0556,39,Male,New York,2024-03-15,Two Year,Premium,68.99,2606.78,E-Wallet,0
+C0557,36,Other,Houston,2023-03-24,Monthly,Standard,81.83,3420.19,Bank Transfer,0
+C0558,59,Female,New York,2023-09-05,Monthly,Premium,112.58,1182.3,Bank Transfer,1
+C0559,41,Male,New York,2024-03-08,Monthly,Standard,113.63,2034.41,Mail,1
+C0560,58,Other,Miami,2023-07-27,Annual,Basic,91.75,2281.51,E-Wallet,0
+C0561,34,Female,Chicago,2023-05-19,Two Year,Premium,118.82,1214.29,Credit Card,0
+C0562,doctor,Female,New York,2024-06-24,Two Year,Premium,125.64,697.53,Bank Transfer,1
+C0563,38,Female,Miami,2023-04-07,Two Year,Standard,145.58,4615.32,Mail,0
+C0564,22,Male,Miami,2025-02-10,Annual,Premium,126.66,683.86,E-Wallet,1
+C0565,61,Other,Miami,2024-11-22,Monthly,Standard,27.14,3631.09,Bank Transfer,1
+C0566,40,Female,Los Angeles,2023-09-08,Two Year,Premium,113.62,2936.55,Mail,1
+C0567,31,Female,Los Angeles,2023-08-12,Two Year,Premium,88.44,4982.66,Credit Card,1
+C0568,it,Female,Houston,2023-08-03,Monthly,Basic,93.22,3445.69,Mail,1
+C0569,68,Other,Los Angeles,2024-08-02,Monthly,Premium,56.0,2044.5,Credit Card,0
+C0570,57,Female,Houston,2023-10-04,Two Year,Premium,90.33,2932.89,Mail,0
+C0571,67,Other,Chicago,2022-12-24,Annual,Basic,118.64,4991.1,Bank Transfer,0
+C0572,56,Female,Houston,2022-09-29,Annual,Premium,80.26,3702.87,Mail,0
+C0573,21,Male,Houston,2023-05-29,Monthly,Basic,86.95,1093.64,E-Wallet,0
+C0574,18,Female,New York,2022-11-24,Two Year,Standard,98.15,4005.81,Mail,0
+C0575,62,Other,Miami,2024-02-24,Two Year,Premium,124.03,4818.97,Credit Card,0
+C0576,43,Female,Chicago,2023-06-21,Two Year,Basic,42.51,224.28,Credit Card,0
+C0577,56,Male,Chicago,2024-08-20,Annual,Premium,68.8,2505.43,E-Wallet,0
+C0578,70,Female,Chicago,2022-10-14,Annual,Standard,104.1,1141.16,Credit Card,0
+C0579,66,Male,New York,2024-10-12,Two Year,Basic,123.75,3246.79,Bank Transfer,1
+C0580,30,Other,Miami,2023-05-26,Two Year,Standard,75.26,1142.99,E-Wallet,1
+C0581,45,Other,New York,2025-05-02,Two Year,Basic,131.09,2981.65,E-Wallet,0
+C0582,44,Male,Los Angeles,2024-08-22,Monthly,Basic,125.78,4980.42,Bank Transfer,1
+C0583,57,Female,New York,2024-06-20,Two Year,Standard,73.27,980.36,Bank Transfer,1
+C0584,66,Male,New York,2023-05-03,Two Year,Basic,70.52,3590.14,Credit Card,0
+C0585,69,Male,Chicago,2024-03-27,Annual,Standard,83.94,2437.25,Credit Card,0
+C0586,61,Other,Chicago,2024-06-12,Two Year,Premium,86.21,1186.53,Bank Transfer,1
+C0587,55,Male,Miami,2023-01-02,Monthly,Basic,137.79,4719.43,Bank Transfer,0
+C0588,24,Female,Houston,2024-01-27,Two Year,Basic,113.85,3578.07,Mail,1
+C0589,21,Female,Houston,2024-10-18,Two Year,Standard,122.08,2460.96,E-Wallet,1
+C0590,23,Male,Houston,2023-07-03,Two Year,Premium,89.37,1124.7,Mail,1
+C0591,29,Male,New York,2023-01-17,Two Year,Premium,37.21,2958.19,Mail,1
+C0592,18,Male,Los Angeles,2024-12-18,Two Year,Premium,79.01,2904.58,E-Wallet,0
+C0593,35,Female,Miami,2025-03-16,Annual,Standard,112.87,3454.55,Mail,1
+C0594,22,Other,Chicago,2022-11-02,Monthly,Basic,97.17,4885.88,Bank Transfer,0
+C0595,29,Female,Los Angeles,2023-03-14,Two Year,Basic,86.6,2266.97,Credit Card,1
+C0596,46,Male,New York,2022-09-12,Annual,Basic,148.73,1035.72,Bank Transfer,0
+C0597,66,Male,Miami,2023-02-28,Annual,Basic,77.68,2011.22,E-Wallet,1
+C0598,40,Male,Chicago,2023-08-30,Two Year,Premium,42.82,2207.83,Mail,1
+C0599,realize,Other,Houston,2025-04-21,Two Year,Basic,33.49,1209.99,Bank Transfer,0
+C0600,39,Male,New York,2023-06-22,Two Year,Basic,70.78,3794.29,Credit Card,0
+C0601,39,Male,Chicago,2023-02-27,Monthly,Premium,52.07,4502.64,Credit Card,0
+C0602,61,Male,Miami,2024-02-15,Two Year,Basic,41.59,2836.07,Credit Card,1
+C0603,64,Female,New York,2023-01-17,Monthly,Standard,39.74,874.41,Credit Card,0
+C0604,44,Other,New York,2023-01-24,Annual,Standard,85.3,3482.58,E-Wallet,0
+C0605,59,Male,Chicago,2022-10-06,Annual,Basic,137.32,2076.78,Credit Card,1
+C0606,62,Other,Houston,2025-04-30,Two Year,Basic,53.89,4855.81,Credit Card,0
+C0607,41,Male,Miami,2022-12-25,Two Year,Basic,105.51,1435.59,E-Wallet,0
+C0608,44,Female,Chicago,2023-11-27,Annual,Basic,91.02,549.76,Mail,0
+C0609,67,Other,Chicago,2025-02-18,Monthly,Standard,47.39,4307.78,Credit Card,0
+C0610,36,Female,Miami,2022-11-26,Monthly,Basic,134.46,4073.48,Bank Transfer,0
+C0611,36,Other,Houston,2024-12-01,Annual,Standard,80.6,2971.81,Credit Card,0
+C0612,38,Male,Los Angeles,2024-02-29,Two Year,Standard,110.73,4240.41,Credit Card,1
+C0613,60,Other,Los Angeles,2024-12-18,Annual,Standard,26.34,2048.43,Bank Transfer,1
+C0614,67,Other,Chicago,2023-07-10,Two Year,Standard,89.21,3349.69,Mail,1
+C0615,38,Female,Chicago,2024-04-15,Two Year,Premium,35.52,3567.77,Mail,0
+C0616,68,Female,New York,2023-11-09,Two Year,Standard,103.91,3092.56,Bank Transfer,1
+C0617,63,Female,Chicago,2023-09-11,Monthly,Premium,23.28,1453.64,Credit Card,0
+C0618,33,Male,Chicago,2024-03-12,Monthly,Standard,69.4,1874.23,Credit Card,0
+C0619,68,Male,New York,2025-05-03,Two Year,Premium,72.85,4144.59,Bank Transfer,0
+C0620,43,Male,Houston,2024-05-13,Two Year,Premium,53.76,3132.42,Bank Transfer,0
+C0621,48,Male,Chicago,2024-09-17,Two Year,Basic,64.53,1987.36,Mail,1
+C0622,50,Female,Houston,2024-02-09,Two Year,Standard,23.31,4950.07,Credit Card,0
+C0623,25,Other,New York,2023-08-10,Monthly,Premium,28.14,2162.71,E-Wallet,0
+C0624,34,Male,Chicago,2023-08-30,Two Year,Basic,146.52,3788.31,Credit Card,0
+C0625,46,Other,Los Angeles,2024-09-13,Two Year,Standard,61.96,2260.52,E-Wallet,0
+C0626,66,Other,New York,2023-12-19,Annual,Premium,39.91,3750.05,Mail,1
+C0627,59,Other,Chicago,2023-12-11,Monthly,Standard,103.71,1807.77,E-Wallet,1
+C0628,61,Male,Miami,2023-03-09,Two Year,Basic,54.29,3861.94,Bank Transfer,1
+C0629,24,Female,Los Angeles,2024-05-08,Two Year,Standard,132.38,1572.87,Bank Transfer,1
+C0630,38,Male,Houston,2022-10-28,Two Year,Standard,144.06,4596.05,Credit Card,0
+C0631,54,Other,Miami,2024-10-21,Monthly,Standard,70.29,2428.52,Bank Transfer,0
+C0632,show,Female,Houston,2023-07-12,Two Year,Premium,26.91,4683.69,Mail,1
+C0633,59,Female,Los Angeles,2023-10-11,Two Year,Premium,127.45,805.05,Bank Transfer,0
+C0634,24,Male,Houston,2024-02-02,Monthly,Premium,88.68,2141.22,E-Wallet,1
+C0635,47,Female,Miami,2023-05-17,Two Year,Standard,76.15,2411.97,Credit Card,1
+C0636,39,Female,New York,2022-12-05,Monthly,Standard,116.37,1523.25,Mail,0
+C0637,68,Other,New York,2023-06-20,Annual,Premium,50.26,1228.13,Credit Card,1
+C0638,34,Male,Miami,2023-11-04,Two Year,Basic,139.66,416.8,Mail,1
+C0639,64,Female,Los Angeles,2022-10-07,Two Year,Basic,32.79,265.77,E-Wallet,1
+C0640,50,Other,New York,2022-09-23,Annual,Standard,97.45,771.7,Bank Transfer,1
+C0641,67,Female,New York,2023-06-01,Monthly,Standard,85.29,3679.11,E-Wallet,0
+C0642,49,Other,Los Angeles,2024-04-12,Two Year,Standard,40.63,2720.53,Credit Card,1
+C0643,53,Female,Houston,2023-04-30,Monthly,Standard,112.44,4384.02,Mail,1
+C0644,65,Female,Los Angeles,2023-05-23,Annual,Premium,98.93,1566.87,E-Wallet,0
+C0645,54,Other,Houston,2023-10-04,Monthly,Basic,81.88,1729.74,E-Wallet,0
+C0646,36,Female,Los Angeles,2024-08-24,Monthly,Standard,110.3,855.91,Bank Transfer,1
+C0647,24,Other,Chicago,2025-04-26,Two Year,Premium,76.64,531.02,Credit Card,0
+C0648,account,Female,New York,2025-01-05,Monthly,Basic,80.18,724.97,Bank Transfer,1
+C0649,18,Female,Houston,2023-02-01,Annual,Premium,133.55,1837.9,Credit Card,0
+C0650,26,Female,Chicago,2024-11-13,Monthly,Premium,107.19,4877.25,Bank Transfer,0
+C0651,50,Female,Miami,2024-03-18,Two Year,Standard,74.42,3330.08,Bank Transfer,0
+C0652,46,Female,New York,2024-05-17,Two Year,Standard,113.22,1196.77,Bank Transfer,0
+C0653,55,Other,Houston,2024-02-21,Monthly,Standard,108.77,2164.38,E-Wallet,1
+C0654,63,Male,Los Angeles,2024-12-27,Two Year,Standard,29.9,611.16,Mail,1
+C0655,69,Female,New York,2024-12-31,Annual,Basic,141.52,2702.73,E-Wallet,0
+C0656,70,Male,Los Angeles,2023-10-12,Annual,Premium,130.94,2798.66,E-Wallet,0
+C0657,59,Other,New York,2025-03-13,Two Year,Standard,98.89,1805.63,Credit Card,1
+C0658,34,Female,Houston,2023-01-03,Annual,Premium,69.17,2185.17,Bank Transfer,0
+C0659,29,Other,Houston,2024-03-06,Two Year,Basic,83.49,3794.97,E-Wallet,1
+C0660,69,Female,Los Angeles,2024-04-20,Annual,Standard,115.04,1749.77,Bank Transfer,1
+C0661,64,Other,Chicago,2025-02-25,Monthly,Basic,125.22,361.69,Mail,1
+C0662,43,Male,New York,2025-03-23,Two Year,Standard,60.86,471.5,Mail,0
+C0663,70,Male,Miami,2024-05-31,Annual,Standard,112.77,552.19,Mail,0
+C0664,22,Male,Los Angeles,2023-09-19,Two Year,Premium,131.7,4827.83,Mail,0
+C0665,69,Female,New York,2024-05-20,Two Year,Premium,112.26,3924.3,Mail,0
+C0666,27,Male,Chicago,2023-06-02,Monthly,Standard,114.26,4182.14,Credit Card,0
+C0667,46,Other,Los Angeles,2022-11-14,Two Year,Basic,48.36,262.03,Bank Transfer,0
+C0668,39,Female,Los Angeles,2023-06-18,Monthly,Basic,67.34,1449.08,E-Wallet,0
+C0669,39,Other,New York,2024-12-31,Annual,Premium,147.09,1149.08,E-Wallet,0
+C0670,45,Other,Houston,2025-02-19,Monthly,Standard,102.52,3935.77,Credit Card,0
+C0671,18,Female,Los Angeles,2022-10-02,Annual,Premium,24.06,674.76,Bank Transfer,1
+C0672,69,Female,Miami,2023-01-25,Monthly,Basic,136.91,3903.22,Bank Transfer,1
+C0673,62,Male,Miami,2023-06-21,Annual,Standard,81.46,573.34,Mail,1
+C0674,45,Female,Houston,2024-10-10,Annual,Basic,44.38,3884.98,E-Wallet,1
+C0675,19,Other,Miami,2024-01-22,Monthly,Standard,92.28,2547.8,Mail,1
+C0676,47,Female,Los Angeles,2024-01-02,Two Year,Standard,55.2,2013.39,E-Wallet,1
+C0677,54,Other,New York,2024-08-09,Monthly,Standard,27.16,4848.84,E-Wallet,0
+C0678,63,Other,Miami,2024-02-23,Two Year,Basic,77.27,4786.07,Credit Card,1
+C0679,30,Male,New York,2023-02-09,Two Year,Standard,117.25,761.1,Mail,1
+C0680,48,Male,New York,2025-02-01,Monthly,Premium,67.65,1542.01,Mail,1
+C0681,25,Female,Chicago,2024-12-28,Monthly,Premium,98.81,66.99,E-Wallet,0
+C0682,22,Other,Los Angeles,2022-10-18,Annual,Premium,145.52,1368.2,Bank Transfer,1
+C0683,38,Other,Los Angeles,2024-03-26,Monthly,Standard,78.87,2019.78,Mail,1
+C0684,65,Other,Los Angeles,2023-10-03,Two Year,Premium,127.74,478.31,E-Wallet,1
+C0685,69,Other,New York,2024-01-24,Monthly,Standard,118.67,516.4,E-Wallet,0
+C0686,40,Other,Miami,2025-04-15,Two Year,Basic,98.66,3755.25,Mail,0
+C0687,63,Male,Los Angeles,2024-11-24,Two Year,Premium,106.14,4700.0,Mail,1
+C0688,54,Male,Los Angeles,2022-11-05,Two Year,Basic,87.5,3901.16,Credit Card,0
+C0689,26,Male,Los Angeles,2023-03-11,Monthly,Premium,52.14,265.39,E-Wallet,1
+C0690,57,Female,Los Angeles,2025-01-11,Monthly,Standard,146.83,2175.7,Credit Card,0
+C0691,27,Female,Houston,2023-10-09,Two Year,Premium,31.34,3656.65,Bank Transfer,1
+C0692,60,Male,Miami,2025-04-26,Monthly,Premium,63.2,369.54,Bank Transfer,1
+C0693,29,Male,Houston,2023-01-23,Two Year,Premium,59.02,4511.2,E-Wallet,0
+C0694,29,Male,Miami,2024-03-23,Two Year,Basic,32.72,360.62,Mail,0
+C0695,25,Other,Los Angeles,2023-02-03,Monthly,Standard,52.46,4409.41,Mail,1
+C0696,69,Female,Los Angeles,2023-06-05,Annual,Basic,113.62,805.87,Credit Card,1
+C0697,51,Female,Miami,2024-12-09,Monthly,Premium,22.87,2505.47,Credit Card,0
+C0698,33,Male,Los Angeles,2023-10-25,Monthly,Basic,96.04,2738.71,Bank Transfer,0
+C0699,67,Female,Houston,2023-04-16,Monthly,Basic,59.21,294.93,E-Wallet,0
+C0700,31,Other,Miami,2022-11-20,Monthly,Standard,42.13,966.34,E-Wallet,1
+C0701,58,Female,Los Angeles,2023-08-01,Two Year,Standard,98.79,2794.13,Bank Transfer,0
+C0702,36,Female,Chicago,2023-01-31,Monthly,Basic,32.36,4956.66,Mail,1
+C0703,23,Other,Chicago,2023-07-21,Two Year,Basic,21.92,3334.98,Mail,0
+C0704,19,Other,Los Angeles,2023-09-20,Two Year,Basic,39.22,2247.33,Mail,0
+C0705,25,Male,Miami,2024-07-25,Two Year,Premium,94.21,4333.86,Mail,1
+C0706,56,Other,Los Angeles,2025-03-21,Monthly,Basic,140.5,2290.61,Mail,1
+C0707,56,Male,Los Angeles,2023-12-02,Monthly,Standard,112.76,4511.26,Bank Transfer,1
+C0708,22,Other,New York,2024-03-14,Two Year,Basic,22.14,2655.57,E-Wallet,1
+C0709,23,Male,Miami,2024-03-25,Monthly,Standard,57.16,3778.59,Bank Transfer,1
+C0710,36,Female,Miami,2022-12-11,Annual,Standard,24.12,2310.5,Bank Transfer,1
+C0711,63,Male,Houston,2023-05-25,Two Year,Premium,132.41,820.44,E-Wallet,1
+C0712,30,Other,New York,2024-09-14,Two Year,Premium,32.26,3572.83,Credit Card,0
+C0713,51,Female,Chicago,2023-09-15,Annual,Standard,102.47,4280.5,Mail,0
+C0714,18,Other,Chicago,2023-12-09,Two Year,Standard,77.52,695.1,E-Wallet,0
+C0715,24,Male,Chicago,2023-11-23,Monthly,Standard,120.16,2190.33,Mail,0
+C0716,69,Male,Chicago,2024-12-21,Annual,Standard,86.47,1046.23,Credit Card,1
+C0717,51,Female,New York,2022-11-23,Monthly,Premium,127.57,421.45,Bank Transfer,0
+C0718,19,Female,New York,2023-01-15,Two Year,Premium,135.11,507.67,E-Wallet,0
+C0719,27,Other,Miami,2023-02-11,Two Year,Premium,58.77,3963.98,Bank Transfer,1
+C0720,39,Other,Miami,2024-02-07,Annual,Standard,138.99,2023.82,Credit Card,0
+C0721,themselves,Other,Houston,2024-07-30,Annual,Basic,146.76,1726.98,Mail,0
+C0722,60,Male,Houston,2024-01-28,Monthly,Standard,133.67,3167.93,Credit Card,0
+C0723,40,Male,New York,2023-10-08,Two Year,Basic,28.89,2280.31,Bank Transfer,1
+C0724,23,Female,Miami,2023-12-17,Two Year,Basic,119.76,1292.67,E-Wallet,0
+C0725,24,Female,Los Angeles,2023-08-10,Monthly,Premium,75.98,348.8,Mail,1
+C0726,68,Other,Chicago,2023-03-21,Monthly,Basic,148.17,2881.33,Bank Transfer,0
+C0727,36,Female,Miami,2023-04-22,Monthly,Standard,136.52,3754.43,Mail,0
+C0728,41,Male,New York,2023-02-06,Annual,Basic,25.35,571.34,Bank Transfer,0
+C0729,31,Male,New York,2024-05-25,Annual,Premium,135.01,4566.55,Bank Transfer,0
+C0730,19,Female,Houston,2023-05-26,Annual,Premium,55.11,4102.94,Mail,0
+C0731,69,Other,New York,2022-12-05,Annual,Basic,43.92,1270.8,E-Wallet,0
+C0732,37,Other,New York,2024-11-17,Annual,Standard,74.78,3782.29,Bank Transfer,1
+C0733,29,Other,New York,2023-05-10,Annual,Basic,45.28,3467.51,Bank Transfer,0
+C0734,36,Male,Houston,2023-01-27,Two Year,Basic,111.72,2208.53,Credit Card,1
+C0735,68,Female,Chicago,2023-09-16,Two Year,Premium,80.15,669.24,Mail,1
+C0736,56,Female,Los Angeles,2023-09-03,Annual,Premium,136.14,3008.53,Credit Card,0
+C0737,wear,Male,Houston,2024-07-26,Monthly,Basic,131.21,4810.03,Mail,1
+C0738,wrong,Male,Chicago,2024-08-19,Two Year,Standard,122.13,2121.17,Credit Card,1
+C0739,68,Female,Los Angeles,2023-04-15,Two Year,Premium,97.19,2375.09,Mail,0
+C0740,40,Other,Chicago,2023-12-31,Monthly,Basic,81.24,1152.08,Credit Card,0
+C0741,42,Other,Los Angeles,2023-06-23,Two Year,Premium,127.27,134.04,Credit Card,0
+C0742,49,Male,Chicago,2023-11-23,Annual,Standard,99.63,2835.34,E-Wallet,1
+C0743,65,Female,Chicago,2023-08-19,Monthly,Standard,86.11,597.78,Bank Transfer,0
+C0744,26,Male,New York,2025-02-12,Two Year,Basic,91.14,2783.08,Bank Transfer,0
+C0745,33,Female,New York,2023-07-26,Monthly,Standard,130.45,478.76,Mail,0
+C0746,26,Male,Chicago,2023-02-09,Annual,Basic,98.3,2556.52,Mail,0
+C0747,50,Other,Houston,2024-02-19,Monthly,Basic,107.09,2921.15,Credit Card,1
+C0748,20,Female,Miami,2024-01-15,Annual,Premium,90.82,3930.27,Bank Transfer,1
+C0749,37,Female,Houston,2024-06-23,Annual,Basic,115.28,3852.08,Mail,1
+C0750,card,Female,Houston,2025-03-07,Two Year,Standard,74.02,740.23,Credit Card,1
+C0751,21,Other,New York,2023-05-28,Two Year,Standard,107.43,3246.76,Credit Card,0
+C0752,64,Female,Los Angeles,2025-01-04,Monthly,Standard,122.38,2984.72,Mail,0
+C0753,40,Female,Chicago,2022-11-27,Two Year,Basic,114.09,3529.69,Bank Transfer,0
+C0754,26,Male,Chicago,2024-12-20,Monthly,Premium,122.93,4736.37,E-Wallet,1
+C0755,56,Other,Chicago,2023-09-24,Annual,Basic,27.87,2199.92,E-Wallet,0
+C0756,listen,Male,New York,2024-03-04,Two Year,Basic,26.79,704.76,Bank Transfer,1
+C0757,50,Other,Miami,2024-03-22,Monthly,Basic,142.47,2929.19,Mail,1
+C0758,66,Other,Houston,2024-01-20,Monthly,Premium,93.11,171.28,Bank Transfer,0
+C0759,61,Female,Chicago,2022-10-16,Monthly,Standard,105.48,4944.47,Bank Transfer,0
+C0760,40,Female,Los Angeles,2025-03-15,Two Year,Standard,105.23,3305.54,E-Wallet,1
+C0761,39,Other,Los Angeles,2023-06-22,Two Year,Basic,59.76,2822.03,Credit Card,0
+C0762,70,Male,Chicago,2024-04-07,Annual,Premium,90.39,3246.81,E-Wallet,0
+C0763,30,Other,New York,2024-01-09,Two Year,Standard,63.44,4099.47,Credit Card,0
+C0764,fact,Other,Los Angeles,2024-09-24,Two Year,Basic,75.24,3805.73,Bank Transfer,0
+C0765,26,Other,New York,2024-12-24,Monthly,Premium,38.0,2560.15,E-Wallet,1
+C0766,36,Male,Houston,2023-03-20,Two Year,Standard,87.77,992.04,Credit Card,0
+C0767,become,Other,Houston,2023-02-21,Monthly,Premium,37.13,896.32,E-Wallet,0
+C0768,61,Other,Miami,2022-10-30,Monthly,Premium,148.21,2067.87,Bank Transfer,0
+C0769,64,Male,New York,2022-12-07,Two Year,Basic,81.13,1702.36,Bank Transfer,0
+C0770,56,Male,New York,2024-05-27,Annual,Standard,52.45,4655.32,Mail,1
+C0771,52,Other,Los Angeles,2024-02-07,Annual,Basic,59.3,1910.55,Mail,0
+C0772,58,Other,Chicago,2024-06-03,Two Year,Premium,83.83,2681.51,E-Wallet,1
+C0773,33,Other,Miami,2025-03-10,Monthly,Standard,97.51,2782.97,E-Wallet,0
+C0774,22,Other,Los Angeles,2025-04-21,Monthly,Standard,54.66,2479.64,E-Wallet,1
+C0775,55,Female,Chicago,2023-01-17,Two Year,Standard,73.27,3920.72,Bank Transfer,0
+C0776,52,Female,Miami,2024-09-17,Two Year,Premium,32.27,3368.78,Bank Transfer,0
+C0777,25,Female,New York,2024-08-20,Annual,Basic,78.11,2321.09,Bank Transfer,0
+C0778,64,Other,Chicago,2024-09-06,Monthly,Standard,56.72,214.8,Credit Card,1
+C0779,33,Male,Los Angeles,2024-09-16,Annual,Premium,28.73,1427.83,Mail,0
+C0780,42,Male,Miami,2024-09-22,Monthly,Basic,134.74,332.36,Mail,0
+C0781,69,Male,Houston,2022-09-15,Two Year,Basic,80.15,2692.06,Bank Transfer,1
+C0782,32,Male,Miami,2025-03-12,Monthly,Standard,137.66,1974.72,E-Wallet,0
+C0783,61,Other,Chicago,2022-10-03,Annual,Basic,87.21,4023.11,Bank Transfer,0
+C0784,68,Female,Houston,2023-05-26,Two Year,Basic,137.64,1246.99,Mail,0
+C0785,21,Other,Los Angeles,2024-04-13,Two Year,Premium,49.13,3421.55,Bank Transfer,0
+C0786,43,Other,Miami,2023-03-29,Two Year,Basic,29.02,3419.08,Mail,0
+C0787,39,Other,Chicago,2025-03-11,Monthly,Basic,107.13,1821.26,Mail,0
+C0788,45,Male,Houston,2023-05-13,Two Year,Standard,80.92,3341.32,Mail,0
+C0789,61,Female,Chicago,2024-11-27,Monthly,Basic,56.99,1334.74,Bank Transfer,0
+C0790,64,Male,Miami,2023-09-29,Two Year,Premium,128.75,4689.37,Mail,0
+C0791,28,Male,Los Angeles,2024-06-30,Two Year,Basic,92.98,1060.78,Credit Card,0
+C0792,35,Male,Chicago,2023-08-16,Annual,Premium,127.24,2201.4,Credit Card,0
+C0793,35,Male,Chicago,2023-01-21,Annual,Premium,149.03,2915.68,Mail,1
+C0794,56,Female,Houston,2023-08-20,Two Year,Basic,48.13,4711.66,E-Wallet,0
+C0795,42,Female,Houston,2024-10-25,Annual,Standard,114.75,3210.0,Mail,0
+C0796,50,Male,Los Angeles,2024-11-05,Two Year,Standard,91.85,2373.24,E-Wallet,1
+C0797,57,Female,Miami,2024-08-18,Two Year,Standard,62.63,644.78,Credit Card,1
+C0798,58,Male,Chicago,2024-03-20,Monthly,Basic,103.42,2730.54,Bank Transfer,0
+C0799,18,Female,Houston,2024-01-25,Annual,Premium,139.57,1094.82,Credit Card,0
+C0800,69,Other,Miami,2024-09-27,Monthly,Premium,31.67,3810.14,Bank Transfer,0
+C0801,65,Male,Los Angeles,2023-05-23,Annual,Basic,114.4,4135.88,Mail,1
+C0802,38,Male,Los Angeles,2024-07-28,Two Year,Premium,146.11,1186.66,Credit Card,0
+C0803,37,Male,New York,2023-12-05,Two Year,Premium,136.07,1664.86,Mail,1
+C0804,68,Female,Los Angeles,2024-03-18,Two Year,Premium,90.05,1395.93,E-Wallet,0
+C0805,28,Other,Chicago,2024-05-06,Annual,Premium,66.76,1397.71,Bank Transfer,0
+C0806,28,Male,Chicago,2023-06-13,Two Year,Premium,90.65,1359.94,E-Wallet,0
+C0807,36,Male,Houston,2023-01-27,Monthly,Premium,96.5,300.16,Bank Transfer,1
+C0808,28,Female,New York,2025-02-25,Monthly,Basic,140.66,4580.31,Credit Card,0
+C0809,68,Other,Los Angeles,2022-11-13,Two Year,Premium,120.86,1306.33,Bank Transfer,1
+C0810,23,Other,Houston,2023-08-12,Monthly,Premium,100.06,2321.84,Bank Transfer,1
+C0811,43,Male,Houston,2024-10-05,Annual,Premium,130.67,2421.91,Credit Card,0
+C0812,67,Male,Miami,2023-07-09,Two Year,Standard,33.8,866.94,Mail,0
+C0813,36,Other,Los Angeles,2025-03-07,Annual,Premium,97.51,3978.18,Mail,0
+C0814,18,Other,New York,2022-11-21,Monthly,Premium,25.6,157.42,Mail,1
+C0815,43,Other,Los Angeles,2024-10-02,Two Year,Standard,131.31,2627.41,Bank Transfer,1
+C0816,58,Female,Chicago,2024-08-10,Monthly,Standard,38.16,2923.75,E-Wallet,1
+C0817,36,Other,New York,2023-12-21,Two Year,Standard,79.29,3843.05,E-Wallet,0
+C0818,37,Other,Chicago,2023-01-31,Annual,Premium,72.18,943.71,E-Wallet,1
+C0819,36,Other,Los Angeles,2024-03-30,Two Year,Basic,68.98,3266.59,Bank Transfer,1
+C0820,67,Other,New York,2025-04-13,Two Year,Basic,109.0,2583.95,Mail,0
+C0821,59,Female,Los Angeles,2024-03-04,Monthly,Premium,88.44,4865.69,Credit Card,0
+C0822,58,Other,New York,2025-03-03,Annual,Basic,76.46,709.98,Bank Transfer,0
+C0823,54,Other,Miami,2024-07-18,Annual,Basic,135.99,2082.12,E-Wallet,1
+C0824,23,Male,Los Angeles,2023-08-30,Annual,Premium,47.05,3353.2,Bank Transfer,0
+C0825,58,Female,Miami,2024-12-16,Monthly,Basic,106.92,4537.24,Credit Card,0
+C0826,69,Female,Houston,2023-08-05,Two Year,Premium,72.9,2508.52,Mail,1
+C0827,25,Other,Houston,2023-05-10,Two Year,Basic,127.46,4309.93,Credit Card,0
+C0828,32,Other,Los Angeles,2023-12-30,Two Year,Basic,37.55,4814.65,Bank Transfer,1
+C0829,bag,Other,New York,2024-06-13,Two Year,Basic,91.96,2442.35,E-Wallet,1
+C0830,36,Female,Houston,2025-01-01,Two Year,Premium,110.42,3416.82,E-Wallet,1
+C0831,34,Other,New York,2024-09-06,Two Year,Premium,48.6,2778.73,Bank Transfer,1
+C0832,52,Male,Chicago,2023-09-14,Two Year,Premium,87.25,4478.41,Bank Transfer,1
+C0833,46,Other,Miami,2023-06-27,Two Year,Standard,118.78,2779.93,Credit Card,1
+C0834,40,Female,Houston,2025-01-04,Two Year,Premium,36.11,1750.37,Credit Card,0
+C0835,19,Other,Miami,2023-08-29,Monthly,Standard,48.04,2132.67,E-Wallet,0
+C0836,54,Female,Miami,2022-11-16,Monthly,Standard,33.12,3153.54,Mail,0
+C0837,58,Male,Chicago,2024-02-27,Annual,Basic,58.35,1721.02,E-Wallet,1
+C0838,23,Other,Houston,2023-12-07,Annual,Basic,22.99,4364.68,Mail,0
+C0839,education,Other,New York,2023-07-29,Monthly,Standard,124.83,1457.33,Mail,0
+C0840,46,Male,Los Angeles,2023-02-23,Monthly,Premium,41.94,1785.95,Bank Transfer,1
+C0841,24,Male,Los Angeles,2024-04-08,Monthly,Premium,31.8,585.98,E-Wallet,0
+C0842,65,Male,Houston,2022-12-04,Monthly,Premium,113.65,536.03,Mail,0
+C0843,70,Male,Houston,2023-06-04,Annual,Standard,39.99,3355.65,E-Wallet,0
+C0844,33,Other,Miami,2023-05-31,Monthly,Premium,56.22,1419.44,E-Wallet,1
+C0845,33,Female,Los Angeles,2024-09-18,Monthly,Basic,35.53,1804.64,Mail,1
+C0846,62,Female,Chicago,2023-09-23,Two Year,Premium,63.17,4981.03,Credit Card,0
+C0847,58,Male,Los Angeles,2022-11-21,Two Year,Basic,107.25,3775.12,Bank Transfer,1
+C0848,56,Other,Chicago,2025-04-30,Annual,Premium,123.74,122.84,Credit Card,1
+C0849,29,Female,Miami,2024-03-29,Monthly,Premium,118.89,4243.51,Mail,0
+C0850,34,Female,Los Angeles,2024-12-21,Annual,Standard,74.11,362.51,Bank Transfer,1
+C0851,26,Male,New York,2022-12-19,Annual,Premium,24.63,1472.25,E-Wallet,0
+C0852,70,Male,Los Angeles,2024-06-22,Annual,Standard,29.22,1681.15,E-Wallet,0
+C0853,61,Other,Miami,2024-10-17,Monthly,Standard,63.89,798.81,Mail,0
+C0854,26,Male,Los Angeles,2023-09-04,Annual,Standard,100.13,2404.41,Bank Transfer,0
+C0855,69,Female,Los Angeles,2023-05-09,Annual,Premium,36.34,52.93,Bank Transfer,1
+C0856,60,Male,New York,2024-06-02,Two Year,Premium,130.15,2210.39,Mail,0
+C0857,then,Male,New York,2023-12-03,Monthly,Standard,127.0,3139.09,Mail,1
+C0858,24,Female,Los Angeles,2023-05-20,Monthly,Premium,54.21,1334.91,E-Wallet,1
+C0859,68,Male,Chicago,2023-10-18,Two Year,Premium,118.86,1461.58,Credit Card,1
+C0860,32,Male,Los Angeles,2025-02-26,Two Year,Basic,69.81,274.04,Credit Card,0
+C0861,39,Male,Los Angeles,2024-10-29,Monthly,Basic,48.94,3216.66,Credit Card,1
+C0862,51,Male,Chicago,2022-12-08,Monthly,Basic,130.0,2486.73,Credit Card,0
+C0863,39,Male,Los Angeles,2024-01-23,Two Year,Basic,148.57,3930.09,Credit Card,1
+C0864,27,Male,New York,2024-05-30,Two Year,Basic,41.64,640.85,Credit Card,0
+C0865,58,Other,New York,2024-08-06,Monthly,Basic,82.9,3651.03,Mail,0
+C0866,list,Other,New York,2023-01-14,Monthly,Standard,35.17,3837.04,E-Wallet,0
+C0867,yeah,Male,Los Angeles,2024-08-25,Two Year,Standard,103.93,1351.97,E-Wallet,0
+C0868,28,Other,New York,2023-05-01,Annual,Standard,65.98,676.27,E-Wallet,1
+C0869,43,Female,Houston,2022-11-09,Two Year,Standard,107.06,3591.84,Bank Transfer,1
+C0870,34,Female,Miami,2023-01-03,Two Year,Basic,120.26,399.35,Bank Transfer,0
+C0871,61,Female,New York,2023-04-05,Monthly,Standard,40.84,573.65,Bank Transfer,1
+C0872,63,Other,Houston,2023-10-13,Annual,Premium,24.2,2601.15,E-Wallet,0
+C0873,43,Female,Chicago,2024-04-29,Annual,Basic,92.32,574.3,Mail,0
+C0874,69,Other,New York,2025-04-22,Two Year,Standard,98.57,582.65,Credit Card,1
+C0875,49,Female,Los Angeles,2023-08-02,Monthly,Standard,93.9,3691.76,E-Wallet,0
+C0876,70,Female,Los Angeles,2025-03-07,Two Year,Basic,95.05,960.57,Bank Transfer,1
+C0877,34,Other,New York,2022-12-23,Monthly,Premium,30.14,2906.17,E-Wallet,0
+C0878,68,Other,Houston,2023-07-16,Monthly,Standard,51.07,4680.93,Bank Transfer,0
+C0879,70,Other,Chicago,2024-05-16,Annual,Standard,67.02,267.01,Mail,0
+C0880,41,Other,Chicago,2024-04-23,Annual,Premium,65.5,1928.23,E-Wallet,1
+C0881,47,Male,Los Angeles,2024-01-30,Two Year,Premium,110.49,902.27,Mail,0
+C0882,41,Male,Houston,2023-06-24,Annual,Basic,62.14,1507.04,Bank Transfer,0
+C0883,41,Other,Houston,2022-11-03,Two Year,Basic,63.12,1639.79,Mail,1
+C0884,26,Other,Los Angeles,2024-09-15,Monthly,Standard,119.01,4216.99,E-Wallet,1
+C0885,55,Other,Los Angeles,2024-08-19,Annual,Premium,108.06,327.73,E-Wallet,0
+C0886,42,Male,Chicago,2022-09-30,Annual,Basic,71.66,539.8,Bank Transfer,0
+C0887,57,Male,Los Angeles,2022-10-22,Two Year,Standard,130.45,4998.79,Mail,0
+C0888,69,Other,Los Angeles,2022-09-30,Monthly,Standard,66.52,2533.32,Credit Card,1
+C0889,travel,Female,New York,2025-01-30,Two Year,Standard,112.83,927.35,E-Wallet,0
+C0890,30,Other,Los Angeles,2025-02-04,Annual,Standard,143.62,622.41,Credit Card,1
+C0891,54,Other,Miami,2023-01-18,Two Year,Premium,38.61,2084.98,Bank Transfer,1
+C0892,33,Female,Houston,2024-11-01,Annual,Basic,139.53,1560.48,Mail,1
+C0893,23,Other,Chicago,2024-01-08,Annual,Standard,26.16,1429.69,Mail,0
+C0894,20,Other,New York,2023-07-01,Two Year,Premium,132.85,1960.15,Credit Card,1
+C0895,33,Female,Houston,2023-06-08,Two Year,Premium,45.8,1772.98,Credit Card,0
+C0896,32,Other,Houston,2024-04-15,Two Year,Basic,27.2,4797.43,Mail,1
+C0897,23,Female,Houston,2023-05-28,Two Year,Standard,147.39,141.51,Bank Transfer,1
+C0898,35,Female,Miami,2024-02-11,Annual,Standard,144.22,3807.51,Bank Transfer,0
+C0899,56,Female,Los Angeles,2023-04-12,Annual,Basic,43.71,1648.91,Credit Card,1
+C0900,36,Male,New York,2023-11-10,Two Year,Standard,66.62,2788.06,Credit Card,1
+C0901,25,Female,Chicago,2024-01-01,Annual,Basic,105.87,360.17,E-Wallet,0
+C0902,shoulder,Male,Chicago,2025-03-26,Monthly,Standard,76.34,2060.77,E-Wallet,0
+C0903,60,Male,Houston,2022-12-13,Annual,Basic,105.19,113.75,Credit Card,0
+C0904,29,Other,New York,2024-02-16,Two Year,Basic,77.45,3908.51,Mail,1
+C0905,67,Male,Chicago,2023-07-20,Monthly,Standard,100.31,4930.15,Bank Transfer,0
+C0906,25,Other,Houston,2024-07-13,Annual,Basic,47.21,2973.4,Credit Card,0
+C0907,41,Female,Chicago,2024-12-31,Two Year,Premium,125.18,2681.24,Mail,1
+C0908,50,Other,Houston,2023-04-23,Annual,Premium,98.26,3721.99,Credit Card,0
+C0909,39,Other,New York,2023-08-22,Monthly,Basic,24.71,1037.0,E-Wallet,0
+C0910,35,Female,New York,2024-05-15,Annual,Basic,112.98,1135.31,E-Wallet,0
+C0911,40,Other,New York,2023-06-06,Monthly,Standard,100.4,2387.98,Credit Card,0
+C0912,61,Other,Chicago,2024-03-08,Two Year,Premium,36.56,4193.73,Mail,1
+C0913,37,Other,Chicago,2023-01-21,Annual,Standard,99.63,3699.02,Credit Card,1
+C0914,58,Female,Miami,2022-09-15,Annual,Premium,24.88,187.93,Credit Card,1
+C0915,39,Other,Los Angeles,2023-10-17,Two Year,Standard,24.23,1532.28,Credit Card,1
+C0916,54,Other,New York,2023-04-03,Two Year,Basic,73.35,4254.35,Mail,1
+C0917,35,Female,Los Angeles,2024-02-26,Annual,Standard,138.74,4550.32,Bank Transfer,0
+C0918,18,Other,Los Angeles,2024-09-07,Annual,Premium,95.62,1521.86,Bank Transfer,1
+C0919,51,Female,Miami,2024-07-29,Annual,Basic,34.2,2722.4,Credit Card,0
+C0920,join,Male,Houston,2023-07-19,Annual,Premium,127.78,4527.85,Bank Transfer,1
+C0921,25,Female,New York,2024-02-28,Annual,Premium,129.74,1785.15,E-Wallet,1
+C0922,68,Male,Los Angeles,2024-07-01,Annual,Basic,139.3,4495.43,Bank Transfer,0
+C0923,68,Female,Chicago,2024-09-01,Two Year,Premium,111.23,3421.96,E-Wallet,0
+C0924,25,Female,Chicago,2022-10-26,Two Year,Premium,20.88,1307.46,E-Wallet,0
+C0925,33,Male,Houston,2025-02-13,Annual,Basic,31.09,1927.53,Credit Card,1
+C0926,62,Male,Chicago,2023-08-16,Annual,Premium,70.85,1069.75,Mail,0
+C0927,61,Male,Miami,2023-04-19,Annual,Basic,113.12,3739.2,Mail,0
+C0928,51,Male,Houston,2023-05-10,Annual,Basic,46.43,719.98,Credit Card,1
+C0929,61,Female,Miami,2023-05-13,Annual,Basic,63.0,526.23,E-Wallet,0
+C0930,68,Other,New York,2024-04-08,Monthly,Standard,73.12,4292.46,Credit Card,0
+C0931,39,Male,Los Angeles,2023-12-02,Monthly,Standard,30.11,2171.23,Credit Card,1
+C0932,56,Other,New York,2023-07-01,Monthly,Premium,21.34,3281.53,Mail,1
+C0933,19,Female,Miami,2024-04-12,Monthly,Standard,64.56,1242.1,Credit Card,0
+C0934,69,Other,Houston,2025-04-18,Monthly,Basic,142.3,4459.33,Bank Transfer,1
+C0935,60,Other,Los Angeles,2023-04-09,Two Year,Basic,105.41,3618.36,Bank Transfer,0
+C0936,19,Male,Los Angeles,2024-09-01,Monthly,Basic,125.28,1503.44,Credit Card,0
+C0937,27,Male,Houston,2024-06-03,Monthly,Premium,134.67,2486.1,Credit Card,1
+C0938,20,Male,Miami,2023-01-03,Monthly,Basic,42.45,3373.33,Bank Transfer,1
+C0939,26,Male,Houston,2024-11-11,Two Year,Standard,32.13,3131.99,Mail,0
+C0940,58,Female,Los Angeles,2025-02-13,Annual,Basic,146.99,4831.63,E-Wallet,1
+C0941,39,Female,Los Angeles,2024-03-19,Monthly,Standard,21.81,3799.53,Bank Transfer,0
+C0942,59,Female,New York,2022-09-22,Annual,Premium,145.93,1677.78,Bank Transfer,1
+C0943,47,Other,Houston,2024-02-09,Monthly,Standard,109.54,265.6,E-Wallet,0
+C0944,26,Female,Los Angeles,2023-01-05,Monthly,Basic,131.64,50.47,E-Wallet,0
+C0945,60,Other,Houston,2023-05-14,Annual,Basic,54.46,811.6,Bank Transfer,0
+C0946,66,Male,Miami,2024-09-27,Annual,Standard,115.98,2873.21,Mail,1
+C0947,32,Other,Miami,2025-02-12,Annual,Basic,131.0,3487.66,E-Wallet,0
+C0948,of,Other,Chicago,2024-08-07,Monthly,Standard,75.41,1730.61,Bank Transfer,1
+C0949,40,Other,Miami,2023-01-27,Two Year,Premium,59.81,1692.25,E-Wallet,0
+C0950,36,Female,Houston,2024-08-28,Monthly,Premium,59.27,2772.37,Mail,0
+C0951,63,Other,Los Angeles,2024-04-12,Two Year,Standard,48.91,2565.02,E-Wallet,0
+C0952,45,Male,Miami,2024-06-04,Two Year,Premium,64.86,2263.69,Credit Card,0
+C0953,38,Female,Los Angeles,2025-04-22,Two Year,Premium,98.8,2740.18,Mail,0
+C0954,70,Male,Miami,2024-11-10,Monthly,Basic,36.1,2030.11,Mail,1
+C0955,25,Male,Chicago,2024-02-23,Monthly,Standard,34.96,858.87,Bank Transfer,0
+C0956,21,Other,Houston,2024-05-09,Annual,Premium,104.39,752.01,E-Wallet,0
+C0957,31,Female,New York,2025-02-12,Monthly,Standard,77.12,2826.34,Credit Card,0
+C0958,42,Other,Los Angeles,2022-12-27,Two Year,Standard,34.44,1907.55,Mail,0
+C0959,63,Female,New York,2023-06-01,Two Year,Basic,40.53,509.97,E-Wallet,0
+C0960,59,Male,Los Angeles,2024-10-09,Two Year,Basic,125.18,2950.12,Bank Transfer,1
+C0961,his,Other,Chicago,2024-05-09,Two Year,Basic,81.43,3429.08,E-Wallet,1
+C0962,19,Female,New York,2023-10-21,Annual,Basic,137.22,516.33,Mail,0
+C0963,23,Female,Chicago,2022-12-03,Two Year,Premium,67.41,4651.41,E-Wallet,0
+C0964,64,Male,Miami,2023-02-04,Monthly,Standard,64.07,1362.63,Mail,0
+C0965,64,Male,Los Angeles,2024-02-08,Monthly,Premium,139.01,1391.75,Bank Transfer,1
+C0966,22,Male,New York,2023-12-28,Monthly,Premium,98.44,1005.49,Bank Transfer,1
+C0967,20,Other,Los Angeles,2022-09-27,Monthly,Basic,73.4,1292.7,Mail,1
+C0968,66,Other,Los Angeles,2022-10-13,Annual,Basic,81.2,2742.5,Credit Card,0
+C0969,24,Female,Los Angeles,2024-05-25,Monthly,Standard,27.18,1242.0,Credit Card,1
+C0970,51,Female,Los Angeles,2025-04-06,Annual,Basic,71.71,3533.1,Credit Card,1
+C0971,53,Other,Los Angeles,2025-02-12,Annual,Standard,77.01,412.52,Credit Card,0
+C0972,30,Male,Miami,2022-10-29,Two Year,Standard,111.98,1070.86,Credit Card,1
+C0973,48,Other,Chicago,2024-08-18,Two Year,Standard,95.56,1748.01,Mail,0
+C0974,53,Other,Chicago,2023-02-14,Annual,Standard,123.55,4980.8,E-Wallet,1
+C0975,20,Female,Miami,2024-06-14,Two Year,Standard,75.34,1702.83,E-Wallet,1
+C0976,57,Male,Houston,2024-10-01,Two Year,Premium,123.81,392.15,E-Wallet,0
+C0977,42,Male,Los Angeles,2024-04-10,Annual,Premium,86.23,4040.61,Bank Transfer,1
+C0978,68,Female,Houston,2024-12-29,Annual,Standard,41.41,1287.14,Credit Card,0
+C0979,39,Female,Miami,2023-10-30,Annual,Standard,121.92,3826.81,Credit Card,1
+C0980,45,Female,Houston,2023-12-06,Monthly,Basic,67.03,1360.55,Credit Card,1
+C0981,47,Male,New York,2025-03-18,Monthly,Basic,59.06,4191.24,Credit Card,1
+C0982,25,Male,Chicago,2023-10-08,Annual,Standard,136.46,1752.16,Credit Card,0
+C0983,29,Male,Chicago,2024-01-23,Monthly,Basic,43.14,1663.3,Credit Card,0
+C0984,46,Other,Houston,2023-08-10,Monthly,Premium,83.9,1669.48,Bank Transfer,1
+C0985,67,Other,Miami,2025-01-15,Two Year,Premium,46.91,1939.34,Bank Transfer,1
+C0986,42,Other,Los Angeles,2022-09-22,Monthly,Basic,62.72,4374.8,Mail,1
+C0987,36,Female,Houston,2023-01-27,Monthly,Premium,60.95,262.89,Credit Card,0
+C0988,60,Female,Miami,2024-07-13,Two Year,Premium,81.06,2991.76,Bank Transfer,0
+C0989,26,Other,Miami,2023-12-24,Two Year,Standard,49.99,3548.36,Mail,1
+C0990,48,Other,Los Angeles,2024-05-17,Monthly,Premium,87.85,1583.0,Mail,0
+C0991,54,Other,New York,2023-01-07,Annual,Basic,42.72,988.79,Credit Card,0
+C0992,35,Male,New York,2023-02-10,Two Year,Basic,51.25,3082.77,Credit Card,0
+C0993,57,Male,Miami,2022-10-28,Annual,Premium,126.35,1234.47,Mail,1
+C0994,24,Other,Los Angeles,2023-08-30,Two Year,Premium,97.71,1299.94,Mail,1
+C0995,52,Other,New York,2024-09-02,Annual,Basic,140.12,3507.26,Credit Card,0
+C0996,31,Female,Miami,2025-02-08,Annual,Basic,24.87,182.69,Credit Card,0
+C0997,23,Other,New York,2025-01-16,Annual,Standard,96.55,1264.19,Bank Transfer,0
+C0998,67,Other,New York,2023-04-12,Annual,Basic,24.5,3720.9,Credit Card,1
+C0999,18,Other,New York,2024-12-16,Two Year,Standard,136.07,2830.06,E-Wallet,0
+C0205,70,Other,New York,2022-10-30,Annual,Premium,59.36,2626.25,E-Wallet,0
+C0999,18,Other,New York,2024-12-16,Two Year,Standard,136.07,2830.06,E-Wallet,0
+C0952,45,Male,Miami,2024-06-04,Two Year,Premium,64.86,2263.69,Credit Card,0
+C0615,38,Female,Chicago,2024-04-15,Two Year,Premium,35.52,3567.77,Mail,0
+C0297,49,Male,Miami,2023-10-18,Two Year,Premium,138.35,2835.6,Bank Transfer,1
+C0515,18,Other,Miami,2024-11-01,Annual,Standard,53.97,2754.33,Credit Card,1
+C0158,57,Male,Miami,2023-12-22,Two Year,Basic,55.5,4837.4,E-Wallet,0
+C0771,52,Other,Los Angeles,2024-02-07,Annual,Basic,59.3,1910.55,Mail,0
+C0099,67,Other,Chicago,2025-02-09,Two Year,Standard,75.28,830.54,E-Wallet,0
+C0205,70,Other,New York,2022-10-30,Annual,Premium,59.36,2626.25,E-Wallet,0
+C0892,33,Female,Houston,2024-11-01,Annual,Basic,139.53,1560.48,Mail,1
+C0766,36,Male,Houston,2023-03-20,Two Year,Standard,87.77,992.04,Credit Card,0
+C0426,18,Male,Los Angeles,2024-10-13,Annual,Basic,37.77,1433.36,E-Wallet,0
+C0282,25,Other,Houston,2023-10-05,Monthly,Basic,69.86,1057.52,Credit Card,1
+C0705,25,Male,Miami,2024-07-25,Two Year,Premium,94.21,4333.86,Mail,1
+C0511,nor,Other,Miami,2024-08-29,Two Year,Standard,133.48,2129.54,E-Wallet,0
+C0355,29,Male,Miami,2024-05-14,Two Year,Basic,92.09,820.12,Credit Card,0
+C0743,65,Female,Chicago,2023-08-19,Monthly,Standard,86.11,597.78,Bank Transfer,0
+C0812,67,Male,Miami,2023-07-09,Two Year,Standard,33.8,866.94,Mail,0
+C0489,60,Female,Chicago,2024-04-19,Annual,Basic,32.31,3094.52,Credit Card,1

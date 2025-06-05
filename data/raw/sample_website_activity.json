@@ -1,0 +1,352 @@
+[
+    {
+        "customer_id": "C0283",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T16:22:34.639512",
+        "time_on_page_seconds": 252,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0317",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T15:43:34.639522",
+        "time_on_page_seconds": 142,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0822",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T16:10:34.639526",
+        "time_on_page_seconds": 52,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0114",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T16:05:34.639529",
+        "time_on_page_seconds": 289,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0319",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T15:58:34.639533",
+        "time_on_page_seconds": 269,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0515",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T15:41:34.639536",
+        "time_on_page_seconds": 161,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0125",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T16:07:34.639540",
+        "time_on_page_seconds": 278,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0080",
+        "page_visited": "support",
+        "visit_timestamp": "2025-06-03T15:46:34.639544",
+        "time_on_page_seconds": 32,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0540",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T16:16:34.639549",
+        "time_on_page_seconds": 207,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0661",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T15:41:34.639552",
+        "time_on_page_seconds": 192,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0302",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T15:39:34.639555",
+        "time_on_page_seconds": 293,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0117",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T16:14:34.639557",
+        "time_on_page_seconds": 86,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0527",
+        "page_visited": "support",
+        "visit_timestamp": "2025-06-03T15:42:34.639559",
+        "time_on_page_seconds": 101,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0334",
+        "page_visited": "billing",
+        "visit_timestamp": "2025-06-03T15:35:34.639562",
+        "time_on_page_seconds": 218,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0715",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T16:21:34.639565",
+        "time_on_page_seconds": 268,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0534",
+        "page_visited": "support",
+        "visit_timestamp": "2025-06-03T15:59:34.639568",
+        "time_on_page_seconds": 119,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0238",
+        "page_visited": "support",
+        "visit_timestamp": "2025-06-03T15:42:34.639571",
+        "time_on_page_seconds": 272,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0730",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T16:07:34.639573",
+        "time_on_page_seconds": 12,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0730",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T15:51:34.639576",
+        "time_on_page_seconds": 91,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0450",
+        "page_visited": "billing",
+        "visit_timestamp": "2025-06-03T15:56:34.639579",
+        "time_on_page_seconds": 175,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0214",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T16:11:34.639582",
+        "time_on_page_seconds": 168,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0370",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T16:07:34.639585",
+        "time_on_page_seconds": 237,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0669",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T15:41:34.639588",
+        "time_on_page_seconds": 125,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0896",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T16:08:34.639591",
+        "time_on_page_seconds": 278,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0434",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T15:48:34.639594",
+        "time_on_page_seconds": 46,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0429",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T16:05:34.639596",
+        "time_on_page_seconds": 130,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0694",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T15:53:34.639598",
+        "time_on_page_seconds": 137,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0300",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T15:52:34.639600",
+        "time_on_page_seconds": 18,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0803",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T15:51:34.639602",
+        "time_on_page_seconds": 162,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0369",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T15:49:34.639604",
+        "time_on_page_seconds": 198,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0798",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T16:28:34.639606",
+        "time_on_page_seconds": 113,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0708",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T16:15:34.639608",
+        "time_on_page_seconds": 12,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0439",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T16:24:34.639610",
+        "time_on_page_seconds": 255,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0232",
+        "page_visited": "support",
+        "visit_timestamp": "2025-06-03T16:04:34.639612",
+        "time_on_page_seconds": 244,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0340",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T16:08:34.639614",
+        "time_on_page_seconds": 272,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0806",
+        "page_visited": "support",
+        "visit_timestamp": "2025-06-03T16:21:34.639616",
+        "time_on_page_seconds": 6,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0827",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T16:08:34.639619",
+        "time_on_page_seconds": 63,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0701",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T15:50:34.639621",
+        "time_on_page_seconds": 6,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0942",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T16:21:34.639623",
+        "time_on_page_seconds": 204,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0775",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T16:10:34.639625",
+        "time_on_page_seconds": 221,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0890",
+        "page_visited": "faq",
+        "visit_timestamp": "2025-06-03T16:24:34.639627",
+        "time_on_page_seconds": 121,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0740",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T15:52:34.639629",
+        "time_on_page_seconds": 124,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0817",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T15:49:34.639631",
+        "time_on_page_seconds": 103,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0246",
+        "page_visited": "homepage",
+        "visit_timestamp": "2025-06-03T16:24:34.639633",
+        "time_on_page_seconds": 42,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0688",
+        "page_visited": "contact_us",
+        "visit_timestamp": "2025-06-03T15:54:34.639635",
+        "time_on_page_seconds": 227,
+        "browser": "Edge"
+    },
+    {
+        "customer_id": "C0639",
+        "page_visited": "plans",
+        "visit_timestamp": "2025-06-03T16:29:34.639637",
+        "time_on_page_seconds": 9,
+        "browser": "Firefox"
+    },
+    {
+        "customer_id": "C0173",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T15:36:34.639639",
+        "time_on_page_seconds": 94,
+        "browser": "Safari"
+    },
+    {
+        "customer_id": "C0947",
+        "page_visited": "billing",
+        "visit_timestamp": "2025-06-03T15:46:34.639641",
+        "time_on_page_seconds": 57,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0628",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T16:24:34.639643",
+        "time_on_page_seconds": 231,
+        "browser": "Chrome"
+    },
+    {
+        "customer_id": "C0499",
+        "page_visited": "forum",
+        "visit_timestamp": "2025-06-03T15:54:34.639646",
+        "time_on_page_seconds": 150,
+        "browser": "Safari"
+    }
+]
