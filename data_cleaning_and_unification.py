@@ -4,6 +4,7 @@ import glob
 import json
 import numpy as np # For numeric operations like median
 from datetime import datetime
+import re # For cleaning column names (though mostly used in feature_engineering, good to have)
 
 # --- GenAI Configuration ---
 try:
@@ -287,6 +288,18 @@ def unified_data_cleaning_and_initial_processing():
         initial_unified_rows = unified_df.shape[0]
         unified_df.drop_duplicates(subset=['customer_id'], keep='last', inplace=True)
         print(f"Removed {initial_unified_rows - unified_df.shape[0]} duplicate customer IDs from unified data.")
+
+    # Client Request: Add 'Planning_to_leave' column based on 'churn'
+    # 'churn' column contains [0, 1] and 'Planning_to_leave' should contain ['Yes', 'No']
+    if 'churn' in unified_df.columns:
+        print("\nAdding 'Planning_to_leave' column based on 'churn' status (client request).")
+        # Ensure 'churn' is numeric (0 or 1) before applying logic
+        unified_df['churn'] = pd.to_numeric(unified_df['churn'], errors='coerce').fillna(-1).astype(int) # Handle potential non-numeric
+        unified_df['planning_to_leave'] = unified_df['churn'].apply(lambda x: 'Yes' if x == 0 else 'No')
+        # Display sample for verification, ensuring column names match your df
+        print(unified_df[['customer_id', 'churn', 'planning_to_leave']].sample(min(5, len(unified_df))))
+    else:
+        print("Warning: 'churn' column not found in DataFrame. Skipping 'planning_to_leave' column creation.")
 
     # Save the final cleaned and unified dataset to the processed directory
     output_path = os.path.join(PROCESSED_DIR, f'unified_customers_{datetime.now().strftime("%Y%m%d%H%M%S")}.parquet')

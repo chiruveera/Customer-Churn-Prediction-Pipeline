@@ -4,10 +4,8 @@ import os
 from datetime import datetime
 import random # For simulating API data if sample file is missing
 
-# Define directory paths - These are relative to your project's root directory
-# Make sure you run the script from the 'Customer_Churn_Prediction_Project' directory
-RAW_DIR = 'data/raw'
-STAGING_DIR = 'data/staging'
+RAW_DIR = 'data/raw' # Directory for raw data files
+STAGING_DIR = 'data/staging' # Directory for staging Parquet files
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__)) # Get script's dir
 DATA_DIR = os.path.join(PROJECT_ROOT, 'data') # Assume 'data' is a sibling to the script
 

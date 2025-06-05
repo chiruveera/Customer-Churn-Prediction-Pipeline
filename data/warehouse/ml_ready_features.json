@@ -1,6 +1,7 @@
 [
     "age",
     "promo_applied",
+    "planning_to_leave",
     "tenure_months",
     "tenure_years",
     "charges_per_month",
